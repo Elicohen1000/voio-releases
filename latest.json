@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  "3.0.0",
     "notes":  "Product renamed from Typion to Voio. First fully code-signed release (Verified publisher: Passportogo Ltd). Existing data migrates automatically on upgrade.",
     "pub_date":  "2026-05-28T17:01:01Z",
