@@ -1,0 +1,11 @@
+﻿{
+    "version":  "3.0.0",
+    "notes":  "Product renamed from Typion to Voio. First fully code-signed release (Verified publisher: Passportogo Ltd). Existing data migrates automatically on upgrade.",
+    "pub_date":  "2026-05-28T16:55:13Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czhLcTdhR01nUFB2OWE0N01LV1RYb2lEY2tEc2V2NyswSVB2YmlCTWp0TnB3dUFHTFU3T2tyTGFhQXhHZFRXQXQrQUJPNDB1ZEpINUVaV2lCRHBZM3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTg0ODA1CWZpbGU6Vm9pb18zLjAuMF94NjQtc2V0dXAuZXhlCjE4aUt4Qk85N3N2S0pab1owZkQxcWZWYlZUbFI0TFh2RGdlOTZSdnNUSmhxZ1h3WW1rTkRsR1YvZlFaQ0hqQ1BWNUxMc042S3M5a29aWktxZW9OWURRPT0K",
+                                             "url":  "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.0_x64-setup.exe"
+                                         }
+                  }
+}
