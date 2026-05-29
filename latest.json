@@ -1,11 +1,11 @@
 {
-    "version":  "3.0.0",
-    "notes":  "Product renamed from Typion to Voio. First fully code-signed release (Verified publisher: Passportogo Ltd). Existing data migrates automatically on upgrade.",
-    "pub_date":  "2026-05-28T17:01:01Z",
+    "version":  "3.0.1",
+    "notes":  "v3.0.1 - signup email-confirmation handling, mandatory dictation/correction onboarding steps, and full Voio branding (onboarding, sign-in, dashboard logos).",
+    "pub_date":  "2026-05-29T12:07:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czF3ZDFTYkxMUFUzMXVTNkZudWF6eTZnTFpIQzNzVXVSdnNlN1lTbE1tY2dHZlNLYmRKQWE0a0s2dnY5WTBoKzgwS0ROYWFWMUV6S08rZWllNHRFQWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTg3NTcxCWZpbGU6Vm9pb18zLjAuMF94NjQtc2V0dXAuZXhlCm1MYThGL1JXZEE0MnNvd1E2amszTHgyTTloMitkQjNQdFB3aVk1cGkzMHBvR2dmU0NGRWNiSnV5ZHdKcW00dlcwOTNWdmFsUHplWHp4anhHR1NjcUNRPT0K",
-                                             "url":  "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3hxdEZnMXgrK1Y2a1o4c2RaSDZCbmZvWDhJN240Q0JSS281U0NSRmtWY0gyMERiN20rczBRaU84aFRwdUU3ZGxjYU1CZXR5Zkl2M2MvU0NpaUdyT3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDU2MzIwCWZpbGU6Vm9pb18zLjAuMV94NjQtc2V0dXAuZXhlCkgyRDgrY2pFTWFaSmVROG5tNzllaUlTREM1U2RxTS9VWVR4N1RSSmxvN2NLaFpqSC9kclhQaWNvbWZkekJFaXBML2VvRDMrRkxlUVArR3dFN1NlT0FnPT0K",
+                                             "url":  "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.1_x64-setup.exe"
                                          }
                   }
 }
