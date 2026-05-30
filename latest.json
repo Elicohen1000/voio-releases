@@ -1,11 +1,11 @@
 {
-    "version":  "3.0.1",
-    "notes":  "v3.0.1 - signup email-confirmation handling, mandatory dictation/correction onboarding steps, and full Voio branding (onboarding, sign-in, dashboard logos).",
-    "pub_date":  "2026-05-29T12:07:56Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3hxdEZnMXgrK1Y2a1o4c2RaSDZCbmZvWDhJN240Q0JSS281U0NSRmtWY0gyMERiN20rczBRaU84aFRwdUU3ZGxjYU1CZXR5Zkl2M2MvU0NpaUdyT3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDU2MzIwCWZpbGU6Vm9pb18zLjAuMV94NjQtc2V0dXAuZXhlCkgyRDgrY2pFTWFaSmVROG5tNzllaUlTREM1U2RxTS9VWVR4N1RSSmxvN2NLaFpqSC9kclhQaWNvbWZkekJFaXBML2VvRDMrRkxlUVArR3dFN1NlT0FnPT0K",
-                                             "url":  "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.1_x64-setup.exe"
-                                         }
-                  }
+  "version": "3.0.2",
+  "notes": "v3.0.2 — onboarding banners bundled locally; dictation history now records real language (he/en/mixed) instead of \"auto\"; backstage env-var rebrand (TYPION_GROQ_API_KEY → VOIO_GROQ_API_KEY).",
+  "pub_date": "2026-05-30T07:50:30Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czJNRXZYTXdKSnNLeHVKOU1NbURiMWtNYXF4WHRyTHBFWTR2Tzk2dmxvZHpjeXRmUkduV3NHd2xwSzBXemM1SzhBSXZPVE1IL1JIN285dmx5TGNtNXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTI3NDQxCWZpbGU6Vm9pb18zLjAuMl94NjQtc2V0dXAuZXhlCjByTEEwRjVvOXJFZ0FRdDBwV0VaTEE2OWRqdjBPUG9oSUl6ajJaR3UxdmorbFJTcTRzNkRqOGNwWXFKaGFMYmNSWjRyNjBJdG50U0h1L3lQeG05d0FBPT0K",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.2_x64-setup.exe"
+    }
+  }
 }
