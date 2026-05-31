@@ -1,11 +1,11 @@
 {
-  "version": "3.0.5",
-  "notes": "v3.0.5 — onboarding sandbox UX softening: Next unlocks on test completion OR 5s engagement timer, whichever wins.",
-  "pub_date": "2026-05-31T09:07:30Z",
+  "version": "3.0.6",
+  "notes": "v3.0.6 — critical hotfix: v3.0.5 ships with a missing brace that bricks all onboarding Next buttons + the dictation chime. Same root cause, both fixed here.",
+  "pub_date": "2026-05-31T09:23:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czFtNm52eVhXVTVCM3hmWWhhWWpzNmNlOW1BMWNYazBLOGpzMEdpNFdpbllGT055cGUyOENMbnZkbmR0U096TURXSWpVaTAwWURNajN6Y3JiMGdHdmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjE4NDY0CWZpbGU6Vm9pb18zLjAuNV94NjQtc2V0dXAuZXhlCnMvam40Um1ZVWlnMUJ0TUhSdmxBb1ludGR2YkVGbWFhV29XVzNsclFLTHdJdi8xdVpmOTZZSFZzUE93YTZKMUZSTXNtUGhyN0IrdE5oQnNSZTdTcUR3PT0K",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czZIVGJZbkpzeDQ4ZGdsRGNDdzFRR0t6REdEQWI2TTN6elRWUVd4NGtkdUwwWGRyVTF1VHJxeWxxRStUcWpPQ3dXSWNtZEZiQ3IyUXZyU0RhaWtRS2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjE5Mzg2CWZpbGU6Vm9pb18zLjAuNl94NjQtc2V0dXAuZXhlCmtSS1Bzemtvd0VRMTNRM0JkZ3o1MlRIOVFzZXA1ZjZDM2RlcnYvNE5MSWc4T2EyYjBvRHAwUWtwMWxNdDltTXRJdVJrUmdGb1RmRzlYaDB4b21uekJRPT0K",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.6_x64-setup.exe"
     }
   }
 }
