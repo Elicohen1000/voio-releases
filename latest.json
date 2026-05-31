@@ -1,11 +1,11 @@
 {
-  "version": "3.0.7",
-  "notes": "v3.0.7 — UX polish: tray quit single-click fix, removed redundant Active toggle, sandbox timer 5s->8s, dashboard sidebar headers larger + brand color.",
-  "pub_date": "2026-05-31T11:32:30Z",
+  "version": "3.0.8",
+  "notes": "v3.0.8 — conversion-quality critical fix: consecutive_english_words counter no longer snowballs on blocked Hebrew attempts; also resets on period (not just Enter). Plus onboarded-marker diagnostic logging + unconditional uninstall clear.",
+  "pub_date": "2026-05-31T16:24:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czFmcHFEaDlRS1NTajhsWnBrUkdaajgyd2ZZWDhYNTVJL2FaNCtrY3cvN0g2bW85YWZhL2xTSjhZaWFHWnFaTDdITnBpMnNnS1JJMjMwVmVLTXdFVGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjI3MTIyCWZpbGU6Vm9pb18zLjAuN194NjQtc2V0dXAuZXhlClRkckQ0dDU0TDQ3SmVxWFoxdlY4eG1heWszMGg5SVRUYUdOM1VEbHRPNlg4NlV5R25CM2RJVUVLeFRxQi91bE8wc0JFdC9mc2xONkRvUG0vVklsUEFnPT0K",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czd5OFd4aUJyWHB2RXBlRlhzak9rbk0vb0lkb0F1a1NxclFqNnB0M2NmdHpkYmNLZk90YTdRWC91Q2ZPVDF4R21zNDYzZDJ3RG1OUTlWYTZHOUVON3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQ0Njc2CWZpbGU6Vm9pb18zLjAuOF94NjQtc2V0dXAuZXhlClkwMDRHSFNBdUxTb3pvUVhrdWJLSFR0dUF5SkwxUXJLUWZ4ZW5vUmFHTjFhdHhpWGRjL0RHZHppYjhhdVpRNTJrcDYrNWN4b0ZDTWxDS3E4NkxiVUJ3PT0K",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.8_x64-setup.exe"
     }
   }
 }
