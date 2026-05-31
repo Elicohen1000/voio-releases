@@ -1,11 +1,11 @@
 {
-  "version": "3.0.2",
-  "notes": "v3.0.2 — onboarding banners bundled locally; dictation history now records real language (he/en/mixed) instead of \"auto\"; backstage env-var rebrand (TYPION_GROQ_API_KEY → VOIO_GROQ_API_KEY).",
-  "pub_date": "2026-05-30T07:50:30Z",
+  "version": "3.0.3",
+  "notes": "v3.0.3 — onboarding hotfix: correction sandbox now actually completes (was permanently grayed Next button); banner-as-header onboarding redesign; bigger + clearer sandbox demos.",
+  "pub_date": "2026-05-31T06:11:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czJNRXZYTXdKSnNLeHVKOU1NbURiMWtNYXF4WHRyTHBFWTR2Tzk2dmxvZHpjeXRmUkduV3NHd2xwSzBXemM1SzhBSXZPVE1IL1JIN285dmx5TGNtNXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTI3NDQxCWZpbGU6Vm9pb18zLjAuMl94NjQtc2V0dXAuZXhlCjByTEEwRjVvOXJFZ0FRdDBwV0VaTEE2OWRqdjBPUG9oSUl6ajJaR3UxdmorbFJTcTRzNkRqOGNwWXFKaGFMYmNSWjRyNjBJdG50U0h1L3lQeG05d0FBPT0K",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czNIbWw2OFEvUTlSOG9vTVEwalNJNTRoNGZVWlhLNC9DcjgrV3FObStQcXVrS21hekhBOVRkaU5hWXJIdTVWbHoyVTJSVm1GZ3JvMmtGOVA0TWJWaGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjA3ODc0CWZpbGU6Vm9pb18zLjAuM194NjQtc2V0dXAuZXhlCkFLM0FlTXFCaWM4S0R2NnhBVmUyVEI1T3RSUmpiL3hpM0I3YjRPMDhVMi8yekFsa1ovVDUxNDNhVFVkV1ZhbTNDbERhRnNwV1pZdnU4WHhveUtuU0RBPT0K",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.3_x64-setup.exe"
     }
   }
 }
