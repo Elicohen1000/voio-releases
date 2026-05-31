@@ -1,11 +1,11 @@
 {
-  "version": "3.0.3",
-  "notes": "v3.0.3 — onboarding hotfix: correction sandbox now actually completes (was permanently grayed Next button); banner-as-header onboarding redesign; bigger + clearer sandbox demos.",
-  "pub_date": "2026-05-31T06:11:00Z",
+  "version": "3.0.4",
+  "notes": "v3.0.4 — Google sign-in hotfix: OAuth callback listener race + single-shot bug fixed (was failing with ERR_CONNECTION_REFUSED).",
+  "pub_date": "2026-05-31T08:27:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czNIbWw2OFEvUTlSOG9vTVEwalNJNTRoNGZVWlhLNC9DcjgrV3FObStQcXVrS21hekhBOVRkaU5hWXJIdTVWbHoyVTJSVm1GZ3JvMmtGOVA0TWJWaGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjA3ODc0CWZpbGU6Vm9pb18zLjAuM194NjQtc2V0dXAuZXhlCkFLM0FlTXFCaWM4S0R2NnhBVmUyVEI1T3RSUmpiL3hpM0I3YjRPMDhVMi8yekFsa1ovVDUxNDNhVFVkV1ZhbTNDbERhRnNwV1pZdnU4WHhveUtuU0RBPT0K",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czNHWVh4Y3lmYU9YTXRIVHpxSjlYRWN5RkdVWDJhS1MvZDR1dTZJcFJhZStOZWF5UEFlNnRRdlo0LzgrS1lpMENrY3FxNnJFbmtmUVFJMHUyMUg0K3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjE2MDY5CWZpbGU6Vm9pb18zLjAuNF94NjQtc2V0dXAuZXhlCnhDdmJLRnhsb2dpdEpBZmxKVHF3MHFiU1JNTzNlWm9ZR1FEaDVMcHdFYXhlT2d2YkRRV0xrTXBtWWtYSjZkdC9HamtmWS9Zc0UzUnk2bnJ1aVFxWER3PT0K",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.4_x64-setup.exe"
     }
   }
 }
