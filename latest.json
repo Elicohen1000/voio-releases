@@ -1,11 +1,11 @@
 {
-  "version": "3.0.8",
-  "notes": "v3.0.8 — conversion-quality critical fix: consecutive_english_words counter no longer snowballs on blocked Hebrew attempts; also resets on period (not just Enter). Plus onboarded-marker diagnostic logging + unconditional uninstall clear.",
-  "pub_date": "2026-05-31T16:24:30Z",
+  "version": "3.0.9",
+  "notes": "v3.0.9 — keyboard correction (real-momentum guard, window+idle resets, sofit-position structural check for Dir2) + voice dictation (Whisper bilingual prompt no longer teaches translation pattern).",
+  "pub_date": "2026-06-01T07:18:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czd5OFd4aUJyWHB2RXBlRlhzak9rbk0vb0lkb0F1a1NxclFqNnB0M2NmdHpkYmNLZk90YTdRWC91Q2ZPVDF4R21zNDYzZDJ3RG1OUTlWYTZHOUVON3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQ0Njc2CWZpbGU6Vm9pb18zLjAuOF94NjQtc2V0dXAuZXhlClkwMDRHSFNBdUxTb3pvUVhrdWJLSFR0dUF5SkwxUXJLUWZ4ZW5vUmFHTjFhdHhpWGRjL0RHZHppYjhhdVpRNTJrcDYrNWN4b0ZDTWxDS3E4NkxiVUJ3PT0K",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czZtbThka29Lelg4ajRUSVRyTjEzcm5obDAwUFA2eFZnUTlsazZyb3kzVW1Sc0ZPMVYvOVpBaFpkTE9HYXgvbVN2MUVBL2lQVE9rL3hKSUhvU3daUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjk4Mjg2CWZpbGU6Vm9pb18zLjAuOV94NjQtc2V0dXAuZXhlClJLWkpuRWE2YTdTWmlnSkVTaGs0R1p0QzM0Y1R2MENhNCtZNHoxMDJ1MXpUT2VhSzdNV1h4M1JjVFRSUFJMazhpeVY2Yy9EajJsaytlTzYxVDRrbUNRPT0K",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.9_x64-setup.exe"
     }
   }
 }
