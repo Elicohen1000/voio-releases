@@ -1,11 +1,11 @@
 {
-  "version": "3.0.10",
-  "notes": "v3.0.10 — keyboard correction: context-aware abbrev guard + time-limited backspace guard; installer: marker delete + sentinel; dashboard: Check Now URL fix.",
-  "pub_date": "2026-06-01T09:14:30Z",
+  "version": "3.0.11",
+  "notes": "v3.0.11 — install fix (NSIS hook rename triggers onboarding); auth.json wiped on uninstall + DPAPI-encrypted at rest; engine: sofit-ץ words preserved (יועץ etc.), Hebrew loanwords protected (פריקשן etc.), sentence-start ambiguous words deferred via pending-first-word; dashboard: My Words loads on open; dictation language copy clearer.",
+  "pub_date": "2026-06-02T08:58:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czFLZ3JMaG1hSktjb2tOT0JNUWNvenVCd1pldWZIWkJ0bnZOd2Z5UzRwR2dlcEVYT2FaajRaMGUvOUdhaGM3WDhiL2UwWFh0bzhaTHlPQjVlWjJJTWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzA1MjU3CWZpbGU6Vm9pb18zLjAuMTBfeDY0LXNldHVwLmV4ZQpHOFBvd1NEUjIyRjlhb0RkV1VPaFZWc1ppSHlpbFNTL0pwRWFzeHcwN3AzOVpCNTd2SElPMWxZczNmSjlVWXorMnloZWNLbHNEUTRBTjZxMDdMekxCQT09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cy9ZOWZ5WjZ2cFJYRnJvVzFQQ09xVXJWWFRlVzJtM09lZHExQ051bzFkOTZOdUMxSDdVbUZJK3REclZLT2hKZHFOUjdmd0lMRmMwUXNQR3ZHSkNrcFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzc5ODY3CWZpbGU6Vm9pb18zLjAuMTFfeDY0LXNldHVwLmV4ZQpxQWN3OEF5Wk53Zi82UkdJdEhJQXB6RUJ1ZHJkc2FHS3IxZkdWSzg3enVDVityV1VGUmRFckgvWW43WmR2WjRLcWVNbmxsaWVwa09PZFl4bmFsaTlCdz09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.11_x64-setup.exe"
     }
   }
 }
