@@ -1,11 +1,11 @@
 {
-  "version": "3.0.11",
-  "notes": "v3.0.11 — install fix (NSIS hook rename triggers onboarding); auth.json wiped on uninstall + DPAPI-encrypted at rest; engine: sofit-ץ words preserved (יועץ etc.), Hebrew loanwords protected (פריקשן etc.), sentence-start ambiguous words deferred via pending-first-word; dashboard: My Words loads on open; dictation language copy clearer.",
-  "pub_date": "2026-06-02T08:58:00Z",
+  "version": "3.0.12",
+  "notes": "v3.0.12 — Hebrew dictionary expanded 49K → 125K (Wikipedia + Wiktionary + curated, CC BY-SA attribution): פריקשן, מרקטינג, פיצ'ר, אטריביושן, תתאם, אונליין and 200+ more now in dict; apostrophe normalization fixed (פיצ'ר no longer corrupts to פיץ'ר); Smart Pending First Word unified across all early-return paths; Shift+digit correctly captures shifted symbols; My Words triple-bug fixed (auto-lang detect + DB read + UI badge); recording pill height 38→28 + 'Dictating…' renamed; onboarding privacy disclosure added.",
+  "pub_date": "2026-06-03T10:51:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cy9ZOWZ5WjZ2cFJYRnJvVzFQQ09xVXJWWFRlVzJtM09lZHExQ051bzFkOTZOdUMxSDdVbUZJK3REclZLT2hKZHFOUjdmd0lMRmMwUXNQR3ZHSkNrcFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzc5ODY3CWZpbGU6Vm9pb18zLjAuMTFfeDY0LXNldHVwLmV4ZQpxQWN3OEF5Wk53Zi82UkdJdEhJQXB6RUJ1ZHJkc2FHS3IxZkdWSzg3enVDVityV1VGUmRFckgvWW43WmR2WjRLcWVNbmxsaWVwa09PZFl4bmFsaTlCdz09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3dnR0dpeXNiMHQzSDVDR2JyUHhUNlhOS1VUTG5OVGVMbjVwSWpYQW05bWRaZ2RxTkhYM01nOXUxK0hMWGR0eDIvWm1CTTVtSXFQeXlIblU2dUpWK0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDczMDgwCWZpbGU6Vm9pb18zLjAuMTJfeDY0LXNldHVwLmV4ZQpPbVQyZFhpZWU2YXZ3ZXBMR0tQUnJnL3Q2MW41TTZTb01ieThUWjEzUHhJYVFVNjRhbmRMVmVmVzFSNzZROWltUjhMMk9rQldpbHM1dHVzY1VhMjJEZz09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.12_x64-setup.exe"
     }
   }
 }
