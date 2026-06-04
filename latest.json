@@ -1,11 +1,11 @@
 {
-  "version": "3.0.13",
-  "notes": "v3.0.13 — Free tier weekly word cap (Phase 1 launch gate): tiered banner at 80%/90%/100% with progress bar + paywall modal at 100% (soft mode default — flip to hard via PostHog flag); backspace within 800ms of a conversion now undoes it (Bug #11); recording pill alignment fixed across all 3 states — idle/recording/transcribing now share the same vertical center (Bug #19 — fixed 7 references including 4 paired position-math sites missed in v3.0.12 #14a); after Google OAuth completes, dashboard window now pulls itself to the foreground (Bug #18).",
-  "pub_date": "2026-06-04T07:00:00Z",
+  "version": "3.0.14",
+  "notes": "v3.0.14 — Hotfix + usage widgets. CRITICAL FIX: removed installer's explorer.exe taskkill that was breaking the Windows taskbar on fresh installs since v3.0.11 (no more disappearing Start menu / system tray after install). NEW: always-on weekly + monthly usage counter widgets on Home and Stats pages — see your dictation pace at any usage level, not just when crossing the 80% cap threshold. Monthly counter is informational (no cap). Backend: dual diagnostic logs added to free_tier_get_banner and free_tier_get_counters commands so banner-not-showing bugs surface to voio-debug.log instead of failing silently.",
+  "pub_date": "2026-06-04T10:42:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czExalFLU1NsUkJzMytqQ0NxMUZaTFhSQUJ2TktiUGxYOTRnWGw2NzhNWTVrY0x1c0UrUDFhZHhHdU5LTUV4cVRvL3JSWWlEQ0hEeVdya2hjYk53a0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTU1NTcxCWZpbGU6Vm9pb18zLjAuMTNfeDY0LXNldHVwLmV4ZQo3SUJuL1JpQkZzNFVxMHB6M3dFcGlEbmRrRGh3dUZveVJWMTh2bmNjSWNBS05Bb0JGcldJKzFxdnBSYmcweE9WRTlXZjRaQjFDRGtjTCtxbGhSaEZEQT09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czkxTGRPMjl2WFBOR1JBQ3ZJcFN6aVBJd2UzUVBXbXAzQXR2ZG1GSzU0Z0VtbUVEREpSWVlEUlBUUEY5YnFOT0tqWnE5eW5JbWdCQWFLZk5PUnJ1VWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTY5NzM3CWZpbGU6Vm9pb18zLjAuMTRfeDY0LXNldHVwLmV4ZQpvc3cvT3ZiaDl1QWNCbnNyTmJ1aWZXQllNb3JCRnNia1R3M3Q2T2hocnphcm5MSCtjZHh4OXZGdlo2dTNTNldmZ2lycjZVNnNqaE45SG9jSmtyVmRCUT09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.14_x64-setup.exe"
     }
   }
 }
