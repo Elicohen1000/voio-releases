@@ -1,11 +1,11 @@
 {
-  "version": "3.0.12",
-  "notes": "v3.0.12 — Hebrew dictionary expanded 49K → 125K (Wikipedia + Wiktionary + curated, CC BY-SA attribution): פריקשן, מרקטינג, פיצ'ר, אטריביושן, תתאם, אונליין and 200+ more now in dict; apostrophe normalization fixed (פיצ'ר no longer corrupts to פיץ'ר); Smart Pending First Word unified across all early-return paths; Shift+digit correctly captures shifted symbols; My Words triple-bug fixed (auto-lang detect + DB read + UI badge); recording pill height 38→28 + 'Dictating…' renamed; onboarding privacy disclosure added.",
-  "pub_date": "2026-06-03T10:51:00Z",
+  "version": "3.0.13",
+  "notes": "v3.0.13 — Free tier weekly word cap (Phase 1 launch gate): tiered banner at 80%/90%/100% with progress bar + paywall modal at 100% (soft mode default — flip to hard via PostHog flag); backspace within 800ms of a conversion now undoes it (Bug #11); recording pill alignment fixed across all 3 states — idle/recording/transcribing now share the same vertical center (Bug #19 — fixed 7 references including 4 paired position-math sites missed in v3.0.12 #14a); after Google OAuth completes, dashboard window now pulls itself to the foreground (Bug #18).",
+  "pub_date": "2026-06-04T07:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3dnR0dpeXNiMHQzSDVDR2JyUHhUNlhOS1VUTG5OVGVMbjVwSWpYQW05bWRaZ2RxTkhYM01nOXUxK0hMWGR0eDIvWm1CTTVtSXFQeXlIblU2dUpWK0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDczMDgwCWZpbGU6Vm9pb18zLjAuMTJfeDY0LXNldHVwLmV4ZQpPbVQyZFhpZWU2YXZ3ZXBMR0tQUnJnL3Q2MW41TTZTb01ieThUWjEzUHhJYVFVNjRhbmRMVmVmVzFSNzZROWltUjhMMk9rQldpbHM1dHVzY1VhMjJEZz09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czExalFLU1NsUkJzMytqQ0NxMUZaTFhSQUJ2TktiUGxYOTRnWGw2NzhNWTVrY0x1c0UrUDFhZHhHdU5LTUV4cVRvL3JSWWlEQ0hEeVdya2hjYk53a0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTU1NTcxCWZpbGU6Vm9pb18zLjAuMTNfeDY0LXNldHVwLmV4ZQo3SUJuL1JpQkZzNFVxMHB6M3dFcGlEbmRrRGh3dUZveVJWMTh2bmNjSWNBS05Bb0JGcldJKzFxdnBSYmcweE9WRTlXZjRaQjFDRGtjTCtxbGhSaEZEQT09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.13_x64-setup.exe"
     }
   }
 }
