@@ -1,11 +1,11 @@
 {
-    "version": "3.0.16",
-    "notes": "v3.0.16 - PostHog instrumentation (telemetry foundation). No user-facing changes from v3.0.15. Privacy-safe: no transcript text or keystrokes leave the device.",
-    "pub_date": "2026-06-05T14:05:00Z",
+    "version": "3.0.17",
+    "notes": "v3.0.17 - HOTFIX. Fixes critical auth regression in v3.0.16 where the embedded Supabase URL had a typo, causing every auth call to fail with NXDOMAIN. Restores email signup + Google OAuth.",
+    "pub_date": "2026-06-05T15:10:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cytSRVNrN3gwWVlRUEx5WXVBbE53STEzRlpZQjdGVTcrWjhEbUNIdC9sTDNsZURjWjMyeTdMcmlwVnM5bUZhY1JMZUxHT1VWS1lBYXNJaEZacjl3VWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjU3MzEyCWZpbGU6Vm9pb18zLjAuMTZfeDY0LXNldHVwLmV4ZQpib2JVUEtZM2NQd0dGMGMvVEJrSTJMR2QwQjBBRWpOd3g5M3I0YUFBcmhidGc1RXRPajVoWllyZFozOXVHK2xMd1R5bXIxY05GSy9CTlQxNmNHRFFEdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.16_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cy91K1VKU1N3L01PdXU4MzNJUTNqZlptVWZObXo0a3Mxa2Y1aXM3Q25uVGREaDIzblN3bTRCVkh1SHllYVZCNml3Z2tzblZkR1JzSjkvaDZaSStHYUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjYxMjQ0CWZpbGU6Vm9pb18zLjAuMTdfeDY0LXNldHVwLmV4ZQpZRUlNZU9RZkJ0VHhHMjJDNTFFVGxCWDNBMnpXbFNyTEJhR093RFUzdlJoRDV4TFhwNHNNMlZYbDBsQll6ZXExZFBmc2tYRlNEcTA3akYrRU1PNm1Bdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.17_x64-setup.exe"
         }
     }
 }
