@@ -1,11 +1,11 @@
 {
-  "version": "3.0.15",
-  "notes": "v3.0.15 — Stats redesign across all 3 dashboard tabs. HOME: Removed Language Correction stats row (moved to its own tab) and replaced with a 'Recent activity' list showing your last 5 dictations. Voice Dictation hero (total words / sessions / avg WPM) and weekly+monthly usage widgets stay. VOICE DICTATION STATS: Added 4 new sections after the 12-month heatmap — Desktop Usage (top 5 apps with progress bars and 'X other apps' trailing row), Language Mix (Hebrew vs English word totals), Peak Hours (24-bar mini chart of dictation activity by hour of day), Fun Facts (time saved estimate + longest dictation + fastest WPM + average session size). LANGUAGE CORRECTION STATS: Added Direction breakdown (HE→EN vs EN→HE bars), Per App (top apps by correction count), Most Corrected Words (10-word chip grid), and Recent Corrections (last 50 with time / app / original→converted display). Backend: new conversion_history SQLite table populates from install onward; 2 new aggregator Tauri commands return all stats in single round-trips. Conversion history is fresh from v3.0.15 install — no backfill from pre-v3.0.15 in-memory ring. All sections gracefully render empty states so a fresh install isn't a wall of dashes.",
-  "pub_date": "2026-06-04T13:57:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czRhRHpXU0FReFZGbXdPVStvVURPdEd4aFlNSUgyUmw2Zy9oRmF2R296RG1QanRQeWJlVTFtRTNqY3BwSmx5WWF4eTBqbFoyOEdLOCsvb0xuUzU5QkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTgxNDI3CWZpbGU6Vm9pb18zLjAuMTVfeDY0LXNldHVwLmV4ZQpGeHpyK2hRWUROM0VObWNGVWFWdXFJaWJiNms0WWtYeldhOUVzVGhDcC8ycmR6SlZ4R1lUbkZyczJTcTA2ZmM0cFo2VTdTZmtqTjc4NC9ERjNxK3REdz09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.15_x64-setup.exe"
+    "version": "3.0.16",
+    "notes": "v3.0.16 - PostHog instrumentation (telemetry foundation). No user-facing changes from v3.0.15. Privacy-safe: no transcript text or keystrokes leave the device.",
+    "pub_date": "2026-06-05T14:05:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cytSRVNrN3gwWVlRUEx5WXVBbE53STEzRlpZQjdGVTcrWjhEbUNIdC9sTDNsZURjWjMyeTdMcmlwVnM5bUZhY1JMZUxHT1VWS1lBYXNJaEZacjl3VWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjU3MzEyCWZpbGU6Vm9pb18zLjAuMTZfeDY0LXNldHVwLmV4ZQpib2JVUEtZM2NQd0dGMGMvVEJrSTJMR2QwQjBBRWpOd3g5M3I0YUFBcmhidGc1RXRPajVoWllyZFozOXVHK2xMd1R5bXIxY05GSy9CTlQxNmNHRFFEdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.16_x64-setup.exe"
+        }
     }
-  }
 }
