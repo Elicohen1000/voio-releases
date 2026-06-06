@@ -1,11 +1,11 @@
 {
-    "version": "3.0.18",
-    "notes": "v3.0.18 - Onboarding + dashboard UX fixes. CHK-172: Dictation playground textarea now populates. CHK-174: Weekly/monthly usage widgets seed numeric defaults so partial failures show '0 / 2,000' instead of dashes. No engine changes.",
-    "pub_date": "2026-06-05T18:12:00Z",
+    "version": "3.0.19",
+    "notes": "v3.0.19 - Diagnostic release for CHK-174 (Home page widgets show dashes despite v3.0.18 fix). DevTools enabled in release + widget seed function writes 'seed @ HH:MM:SS' into reset labels + window.__voio_widget_seed_ran marker. No engine, auth, or business logic changes from v3.0.18.",
+    "pub_date": "2026-06-06T09:13:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czBMZFZzQVVhN0RFL1hydE1qU0tIdTErb1pEWmNFYlVSVFhOaVdSMFhpNzdUa09uQ1BQdW5OQlFualR6ZEFsSTFXMWVnR3Z2T1AvUm1NUzIwQzFkMWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjcyMTU2CWZpbGU6Vm9pb18zLjAuMThfeDY0LXNldHVwLmV4ZQpLaHZVR29xa1pUWHhZOVpZTFZYUVRDOFk0dXYrM3o5ZHZqK3BveTNzNzk0aGhWUUk3bTRwVXRZMm40K0lOWi9FRFVrSEtia1d1THcwdXRUT2lJSDFBUT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.18_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czMwR1Jxa0EzdkJVaHBTMVBmdENxakgxRHJGbUZubUxTckptVzcxTWhuanBZNk8rZXNGaTdYSVYyaHBDdnIvdjJDODJrc3dHanpMOEJOOEcvb29YTUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzI2MTYyCWZpbGU6Vm9pb18zLjAuMTlfeDY0LXNldHVwLmV4ZQoyV0RneTJFaWMyY2VYWmFSNGFxZithV1JYajFYRjNyeEtEZWhqbm5BQ2NMc3Ixa3k0Y1NxdUs0RVRYSjV1TTN4cXpWdEdxYVo4aVhWenFUbjg5SUhDZz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.19_x64-setup.exe"
         }
     }
 }
