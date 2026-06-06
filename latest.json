@@ -1,11 +1,11 @@
 {
-    "version": "3.0.19",
-    "notes": "v3.0.19 - Diagnostic release for CHK-174 (Home page widgets show dashes despite v3.0.18 fix). DevTools enabled in release + widget seed function writes 'seed @ HH:MM:SS' into reset labels + window.__voio_widget_seed_ran marker. No engine, auth, or business logic changes from v3.0.18.",
-    "pub_date": "2026-06-06T09:13:00Z",
+    "version": "3.0.20",
+    "notes": "v3.0.20 - CHK-174 widgets fix (lifted 18 fns out of initOnboarding IIFE), CHK-182 BS-through-whitespace fix, CHK-185 short-Hebrew context override (TNT->אמא class). Removed v3.0.19 diagnostic devtools flag. 10 new Rust unit tests. CHK-184 cluster mode deferred to v3.0.21.",
+    "pub_date": "2026-06-06T12:55:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czMwR1Jxa0EzdkJVaHBTMVBmdENxakgxRHJGbUZubUxTckptVzcxTWhuanBZNk8rZXNGaTdYSVYyaHBDdnIvdjJDODJrc3dHanpMOEJOOEcvb29YTUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzI2MTYyCWZpbGU6Vm9pb18zLjAuMTlfeDY0LXNldHVwLmV4ZQoyV0RneTJFaWMyY2VYWmFSNGFxZithV1JYajFYRjNyeEtEZWhqbm5BQ2NMc3Ixa3k0Y1NxdUs0RVRYSjV1TTN4cXpWdEdxYVo4aVhWenFUbjg5SUhDZz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.19_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3hRZ1B6ZHk2UE80dC9EenJaNGYvT0NBWVMwU2ZZaXlqRy9WYzNNQW5QbmEyVGJsb3VFU3hKM0o5V3l2QUswWHhvaWR6bzY5R21yRFFBVE9FSVJ6aWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzM5MzUxCWZpbGU6Vm9pb18zLjAuMjBfeDY0LXNldHVwLmV4ZQp3RGt1MGlLRU81ZjJkTDNFZnZGQ3N1QmFDUTdPL2krT0JUd241Z0FJNUJ2Q3VSVUJHd3drcndxdU9xWFBYeHpXK1FaclErdFFNLzhmbk9IQVh3ZWZCUT09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.20_x64-setup.exe"
         }
     }
 }
