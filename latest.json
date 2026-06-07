@@ -1,11 +1,11 @@
 {
-    "version": "3.0.21",
-    "notes": "v3.0.21 - Hotfix release. CHK-182 (P0): fixes conversion regression in v3.0.20 (last_keystroke_time was read just after being updated to NOW, tripping the mid-word-BS flag on every BS). Fix: added prev_keystroke_time, rotated at top of keystroke handler. CHK-191: tray Quit closes on first click (show + unminimize before set_focus). CHK-190: cap banner moved to bottom (was overlaying logo). 11 unit tests passing.",
-    "pub_date": "2026-06-06T13:50:00Z",
+    "version": "3.0.22",
+    "notes": "v3.0.22 - Real fixes for CHK-182 + CHK-191. CHK-182: dropped the 300ms timer at the boundary check (was expiring during slow corrections). Replaced with one-shot semantic flag - persists until next word boundary regardless of elapsed time. Slow typists now protected; the desijn case (BS through whitespace + retype + space taking 350-500ms) no longer produces desiעם. CHK-191: tray Quit now closes on first click. Fixed the show()-async-vs-popup()-sync race by spawning a thread, sleeping 50ms for shell foreground release, then using app_handle.run_on_main_thread for show+focus+popup. 16/16 unit tests passing (5 new v3.0.22 sequence tests). All 3 QA cycles CLEAR TO SHIP.",
+    "pub_date": "2026-06-07T14:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3graEluY0htT3AxMVRoQjBUbjZrcVUvYlg2ZDRwN0NKQ1cvOWRtNTRlSTRzMEdJVVU1bDh5SFpjcUNlVTNrdHNDVUFLVkFCTDl4alVlUXlJK1dpbEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODI2MDQyCWZpbGU6Vm9pb18zLjAuMjFfeDY0LXNldHVwLmV4ZQpQMHU4Y0tGaDY4SnBBaGJBS0I2RXJTa3NVNUNDQVNHNjZhb1ppL1VuR1Npai8yMEhBcWZ6a25XTmtZUFVwSkU4Qk9lelBRa1I0eXhJU3huanhSTCtDQT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.21_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3dORW5QL1l2VTRJL2ZDdFpjK3J2Um1DVlVWSjJsWHRpTGVWSjdZWHNlYUNVZFNva1gweW90L0t5V1JsVXpuR0dKdjlsVlZ0bGZWL21pcHlnQzJid1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQwNDU0CWZpbGU6Vm9pb18zLjAuMjJfeDY0LXNldHVwLmV4ZQp3ZDBHUTZSaGVWWGdHTkdMUTdUTmVGZ0duNzB4QzNXWVE1RXg2blZSTnlUeVJZWHpPL29XcTA2RVI0c1JyK1k4MHkyaFdQWTNlWHlEMC9Fb0E5Z0lCQT09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.22_x64-setup.exe"
         }
     }
 }
