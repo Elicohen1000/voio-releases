@@ -1,11 +1,11 @@
 {
-    "version": "3.0.22",
-    "notes": "v3.0.22 - Real fixes for CHK-182 + CHK-191. CHK-182: dropped the 300ms timer at the boundary check (was expiring during slow corrections). Replaced with one-shot semantic flag - persists until next word boundary regardless of elapsed time. Slow typists now protected; the desijn case (BS through whitespace + retype + space taking 350-500ms) no longer produces desiעם. CHK-191: tray Quit now closes on first click. Fixed the show()-async-vs-popup()-sync race by spawning a thread, sleeping 50ms for shell foreground release, then using app_handle.run_on_main_thread for show+focus+popup. 16/16 unit tests passing (5 new v3.0.22 sequence tests). All 3 QA cycles CLEAR TO SHIP.",
-    "pub_date": "2026-06-07T14:00:00Z",
+    "version": "3.0.23",
+    "notes": "v3.0.23 - Engine fixes for first-word + multi-word kbd-switch. CHK-193: single-char English articles 'a'(ש) and 'I'(ן) at sentence-start on Heb kbd now stored as pending English; cross-direction retro fires when next word confirms (ש cat → a cat). CHK-184: relaxed Dir1 dict-first gate from >=3 chars to >=3 OR (=2 AND not English word); enables conversion of 2-char Heb words like מה/אם/לא/כי/עם/גם (nv קורה now correctly converts nv→מה). 16/16 unit tests pass; qa_sentences scenario runner CHK-184 case 4 flipped FAIL→PASS. 3 QA cycles CLEAR (Cycle 3 caught a fabricated PostHog key on first build; rebuilt cleanly).",
+    "pub_date": "2026-06-07T17:10:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3dORW5QL1l2VTRJL2ZDdFpjK3J2Um1DVlVWSjJsWHRpTGVWSjdZWHNlYUNVZFNva1gweW90L0t5V1JsVXpuR0dKdjlsVlZ0bGZWL21pcHlnQzJid1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQwNDU0CWZpbGU6Vm9pb18zLjAuMjJfeDY0LXNldHVwLmV4ZQp3ZDBHUTZSaGVWWGdHTkdMUTdUTmVGZ0duNzB4QzNXWVE1RXg2blZSTnlUeVJZWHpPL29XcTA2RVI0c1JyK1k4MHkyaFdQWTNlWHlEMC9Fb0E5Z0lCQT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.22_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czFheWxKbjh4RWNhdVNrMG1jUmhsbDhiRkkxQXQrSkZVV21rM3NndGg3bG5YaTNaY2Z4NytHS2ZGQzMrSGtsbzd3VGhoZjlCcmpaSlZGNEx5WDNWN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODUyMDYyCWZpbGU6Vm9pb18zLjAuMjNfeDY0LXNldHVwLmV4ZQoyY2pyUTRzTTc0anVsbnYrYURSOE8wem0vNXpiYU51SGE2anRvSmk0a2hMRGZvU3FsTEV4Z21zajRUempiYW1SaysvM3JpTksrMHJ2UVNyRGgrQnNCUT09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.23_x64-setup.exe"
         }
     }
 }
