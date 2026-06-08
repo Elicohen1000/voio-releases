@@ -1,11 +1,11 @@
 {
-    "version": "3.0.23",
-    "notes": "v3.0.23 - Engine fixes for first-word + multi-word kbd-switch. CHK-193: single-char English articles 'a'(ש) and 'I'(ן) at sentence-start on Heb kbd now stored as pending English; cross-direction retro fires when next word confirms (ש cat → a cat). CHK-184: relaxed Dir1 dict-first gate from >=3 chars to >=3 OR (=2 AND not English word); enables conversion of 2-char Heb words like מה/אם/לא/כי/עם/גם (nv קורה now correctly converts nv→מה). 16/16 unit tests pass; qa_sentences scenario runner CHK-184 case 4 flipped FAIL→PASS. 3 QA cycles CLEAR (Cycle 3 caught a fabricated PostHog key on first build; rebuilt cleanly).",
-    "pub_date": "2026-06-07T17:10:00Z",
+    "version": "3.0.24",
+    "notes": "v3.0.24 - CHK-195 auto-updater wiring (Day 1 of 9-day Gate #1 sprint). The in-app Update available button now actually triggers the Tauri auto-updater instead of showing 'download from website' toast (broken since v3.0.10). Silent startup updater observability: 3 println! replaced with 6 typion_log! calls so voio-debug.log shows whether the 10s post-launch updater ran and what happened. v3.0.24 is the LAST release that requires manual install — from v3.0.25 onwards the auto-updater delivers. All 4 QA cycles CLEAR including the new Cycle 4 Auto-Updater Semantic verification for asymmetric-risk gate.",
+    "pub_date": "2026-06-08T12:10:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czFheWxKbjh4RWNhdVNrMG1jUmhsbDhiRkkxQXQrSkZVV21rM3NndGg3bG5YaTNaY2Z4NytHS2ZGQzMrSGtsbzd3VGhoZjlCcmpaSlZGNEx5WDNWN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODUyMDYyCWZpbGU6Vm9pb18zLjAuMjNfeDY0LXNldHVwLmV4ZQoyY2pyUTRzTTc0anVsbnYrYURSOE8wem0vNXpiYU51SGE2anRvSmk0a2hMRGZvU3FsTEV4Z21zajRUempiYW1SaysvM3JpTksrMHJ2UVNyRGgrQnNCUT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.23_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czRjVHBib3luODJvNi9JOG9wZ1ZsOXcyN05UWXphZzFaZDBlL2x2eUZIZnB1MXBMd1ZHWnkyMTVGTkNicmIyMjFTaGNpNjFWeEprdFFWWk4wZVF1cUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTA5NDQ4CWZpbGU6Vm9pb18zLjAuMjRfeDY0LXNldHVwLmV4ZQpxTU9PcDgzakd5OEZlT1QvL2lBZzNjUCtWdEFiTzJOL3ZrOTlzT2xCUmVWVEhJdHVvRUZkOS9FOWJNZ3NHWDh2WWdUdXNiZTd2MSsvMTE1Mk90SWRDZz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.24_x64-setup.exe"
         }
     }
 }
