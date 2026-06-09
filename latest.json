@@ -1,11 +1,11 @@
-{
-    "version": "3.0.24",
-    "notes": "v3.0.24 - CHK-195 auto-updater wiring (Day 1 of 9-day Gate #1 sprint). The in-app Update available button now actually triggers the Tauri auto-updater instead of showing 'download from website' toast (broken since v3.0.10). Silent startup updater observability: 3 println! replaced with 6 typion_log! calls so voio-debug.log shows whether the 10s post-launch updater ran and what happened. v3.0.24 is the LAST release that requires manual install — from v3.0.25 onwards the auto-updater delivers. All 4 QA cycles CLEAR including the new Cycle 4 Auto-Updater Semantic verification for asymmetric-risk gate.",
-    "pub_date": "2026-06-08T12:10:00Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czRjVHBib3luODJvNi9JOG9wZ1ZsOXcyN05UWXphZzFaZDBlL2x2eUZIZnB1MXBMd1ZHWnkyMTVGTkNicmIyMjFTaGNpNjFWeEprdFFWWk4wZVF1cUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTA5NDQ4CWZpbGU6Vm9pb18zLjAuMjRfeDY0LXNldHVwLmV4ZQpxTU9PcDgzakd5OEZlT1QvL2lBZzNjUCtWdEFiTzJOL3ZrOTlzT2xCUmVWVEhJdHVvRUZkOS9FOWJNZ3NHWDh2WWdUdXNiZTd2MSsvMTE1Mk90SWRDZz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/latest/download/Voio_3.0.24_x64-setup.exe"
-        }
+﻿{
+  "version": "3.0.25",
+  "notes": "v3.0.25 — Unified engine + CHK-193 fix. Entire boundary handler now flows through one shared pure function; qa_simulator validated. CHK-193 cross-direction retro pickup fully fixed (2 root causes). Closes the QA-pass install-fail pattern.",
+  "pub_date": "2026-06-09T15:49:47Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czZvTDRTNjNDYjFiZkl2akJOUCtUSFpPMmhYZ3lSaUR0M2N4dW5OQ0JFc1VNOGdhbmQyd1F2TFVBOFZOWjVRQy9DdThyRW9qSmhQVzBma0ZYdVhHUmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA5MTUxCWZpbGU6Vm9pb18zLjAuMjVfeDY0LXNldHVwLmV4ZQpkQjZxVGVwTGg3NEV3SXV0Wit3L3NYMngyTXNML1Vqb2dFWVpaUUtEWVdHVkcrVG9tZ1owR1ZGcEZXdFZpKzBzQmFlMEhjSnhIUk12WGs2QzROMm9BQT09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.25/Voio_3.0.25_x64-setup.exe"
     }
+  }
 }
