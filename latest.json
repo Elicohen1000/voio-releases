@@ -1,11 +1,11 @@
 ﻿{
-  "version": "3.0.25",
-  "notes": "v3.0.25 — Unified engine + CHK-193 fix. Entire boundary handler now flows through one shared pure function; qa_simulator validated. CHK-193 cross-direction retro pickup fully fixed (2 root causes). Closes the QA-pass install-fail pattern.",
-  "pub_date": "2026-06-09T15:49:47Z",
+  "version": "3.0.26",
+  "notes": "v3.0.26 — CHK-206 fix. mid_word_backspace flag was persisting across sentence-end/window-switch/idle resets. Three single-line clears added to the existing reset blocks. Fixes the 'sleep mode' intermittent failures Eli reported after v3.0.25 install verification.",
+  "pub_date": "2026-06-09T17:37:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czZvTDRTNjNDYjFiZkl2akJOUCtUSFpPMmhYZ3lSaUR0M2N4dW5OQ0JFc1VNOGdhbmQyd1F2TFVBOFZOWjVRQy9DdThyRW9qSmhQVzBma0ZYdVhHUmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA5MTUxCWZpbGU6Vm9pb18zLjAuMjVfeDY0LXNldHVwLmV4ZQpkQjZxVGVwTGg3NEV3SXV0Wit3L3NYMngyTXNML1Vqb2dFWVpaUUtEWVdHVkcrVG9tZ1owR1ZGcEZXdFZpKzBzQmFlMEhjSnhIUk12WGs2QzROMm9BQT09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.25/Voio_3.0.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czl5bUt0UUI1cWJzRnN1dDluR0VLU2xFcHhSS29VaTNCTlBtbk5WZGFaSWtrNkYwU2FPR21OM290bjZLUUltVk1uanZ0N1FUMnlmRXo2ZFIrMmRablFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDE1NjI5CWZpbGU6Vm9pb18zLjAuMjZfeDY0LXNldHVwLmV4ZQpsNXVHNWkrYW1PZXdUeG4vSzVXNnUyODMyRG14anMzMmhrVHBlcjBhOXZaUXBFMzJqZXdqY1FuWHpCZEhVZys3RUluZ1VIUm8xVHJZYnIxU1BPUGRCQT09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.26/Voio_3.0.26_x64-setup.exe"
     }
   }
 }
