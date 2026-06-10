@@ -1,11 +1,11 @@
 {
-  "version": "3.0.27",
-  "notes": "v3.0.27 — CHK-207: common English words typed on the Hebrew keyboard at sentence start (what, how, what is, how much, lets see, again and again) now convert to English. Their mapped-Hebrew form is a valid dictionary word, so the engine had treated them as intentional Hebrew and skipped conversion. Fix encodes frequency asymmetry. Added 'is' to the 2-char allowlist; pruned 'her' (collides with יקר).",
-  "pub_date": "2026-06-10T05:48:14Z",
+  "version": "3.0.28",
+  "notes": "v3.0.28 — Common English words (what, how, why) typed on the Hebrew keyboard now convert mid-paragraph, not just at sentence start. They were blocked by stale Hebrew momentum from an earlier conversion. Found and fixed by replaying a real usage log through the engine.",
+  "pub_date": "2026-06-10T08:58:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czVjaEoxNEY1ZEpIekFlRGZtTi9ybzE3TjZMalhEcWRMd3c5eUxKZW03MFFPMTRTSlFNTU9JcW84Z09iNisxakFlRS9iaXBoS3ZFV3gzZkhVTXdSbVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDcwMDU0CWZpbGU6Vm9pb18zLjAuMjdfeDY0LXNldHVwLmV4ZQpzaXFtdkszaS9zZlV3YXkvckFmOHpaR29ac1k3M3VaN2xwTkk3RXR1TkhJd1R2Tk9ZMllVRnB3UE8yZW1aOFZTWVNvMTJmdmNXS2Y0RlgySEpQYkRCZz09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.27/Voio_3.0.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czBhNTRFa1NQTWJyWnlrV3loTExDN2VSOUFTV1dxVEo5OWovcWR3WUdRbWNST3l4UDNta2k0azhabHBCSVl2U1hZMmxmVVdjc0l1bG1SVVJTOFdFVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDgxNzQ0CWZpbGU6Vm9pb18zLjAuMjhfeDY0LXNldHVwLmV4ZQpQVEJkQzhBdHlxOUVLMG5Fdk1PYmR1TEY0cHhDRk1rZDYrS1NSN3hGakNwOW5QNGtqVFFlZ2tlUHFIZWVKM2NFQzdTUWZVWlN2YVBWc3dqdkVWMEVEZz09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.28/Voio_3.0.28_x64-setup.exe"
     }
   }
 }
