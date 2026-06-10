@@ -1,6 +1,6 @@
 {
-  "version": "3.0.31",
-  "notes": "v3.0.31 — Typing Hebrew while the English keyboard is active now converts correctly (63%→91% on a real session). Validated by replaying real usage before shipping.",
-  "pub_date": "2026-06-10T15:10:55Z",
-  "platforms": { "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czNrME9waE5qc1VPbjlxUFcyZVFOSnB0MnB1aGxoOTE1Z1hIeWJWbDlYRlpTOUtmUVBsaHkvYXpoUHVuVExRS3N0QlJVVXI4d0FwenBMQXZIRDNPZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTAzNTM5CWZpbGU6Vm9pb18zLjAuMzFfeDY0LXNldHVwLmV4ZQp6dG1IVEd5MzhCK0ZsNW1LdCt1Q2FyZ3pvcEtQbncyZWxsSUcxVndsSEZ2UUJVTVVLY3ErdmJBYWc1OW1SVFRVNEF1TW5Sb3Fpb3JveERXc0RWM1dBQT09Cg==", "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.31/Voio_3.0.31_x64-setup.exe" } }
+  "version": "3.0.32",
+  "notes": "v3.0.32 — Short words (how, why, the) now convert correctly even right after a backspace. Also fixes the updater so new versions arrive instantly instead of lagging.",
+  "pub_date": "2026-06-10T19:37:24Z",
+  "platforms": { "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czlwazcrOTYwWHRVc0NWaXF1WURVZFp4WmFpekhCUkIwWjZjakZ4WmRqa2Q4QStTdmNraVNQQlF1bTNyMWMzNHBFZFRwSW8rUU95UlNXVTdOVENTYXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTIwMDczCWZpbGU6Vm9pb18zLjAuMzJfeDY0LXNldHVwLmV4ZQo0ZGxFS3BWeVJJVjRZN05EZVFmT1FGTEpFdzE0V3k2eC9yU0IwZnJpWjJlOEV0bnJmU1c4Q05SQ0lzRno1MmtPeC9Gb0VVM2lqUHFiNWFGK2VRT2lEdz09Cg==", "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.32/Voio_3.0.32_x64-setup.exe" } }
 }
