@@ -1,11 +1,11 @@
-﻿{
-  "version": "3.0.26",
-  "notes": "v3.0.26 — CHK-206 fix. mid_word_backspace flag was persisting across sentence-end/window-switch/idle resets. Three single-line clears added to the existing reset blocks. Fixes the 'sleep mode' intermittent failures Eli reported after v3.0.25 install verification.",
-  "pub_date": "2026-06-09T17:37:10Z",
+{
+  "version": "3.0.27",
+  "notes": "v3.0.27 — CHK-207: common English words typed on the Hebrew keyboard at sentence start (what, how, what is, how much, lets see, again and again) now convert to English. Their mapped-Hebrew form is a valid dictionary word, so the engine had treated them as intentional Hebrew and skipped conversion. Fix encodes frequency asymmetry. Added 'is' to the 2-char allowlist; pruned 'her' (collides with יקר).",
+  "pub_date": "2026-06-10T05:48:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czl5bUt0UUI1cWJzRnN1dDluR0VLU2xFcHhSS29VaTNCTlBtbk5WZGFaSWtrNkYwU2FPR21OM290bjZLUUltVk1uanZ0N1FUMnlmRXo2ZFIrMmRablFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDE1NjI5CWZpbGU6Vm9pb18zLjAuMjZfeDY0LXNldHVwLmV4ZQpsNXVHNWkrYW1PZXdUeG4vSzVXNnUyODMyRG14anMzMmhrVHBlcjBhOXZaUXBFMzJqZXdqY1FuWHpCZEhVZys3RUluZ1VIUm8xVHJZYnIxU1BPUGRCQT09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.26/Voio_3.0.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czVjaEoxNEY1ZEpIekFlRGZtTi9ybzE3TjZMalhEcWRMd3c5eUxKZW03MFFPMTRTSlFNTU9JcW84Z09iNisxakFlRS9iaXBoS3ZFV3gzZkhVTXdSbVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDcwMDU0CWZpbGU6Vm9pb18zLjAuMjdfeDY0LXNldHVwLmV4ZQpzaXFtdkszaS9zZlV3YXkvckFmOHpaR29ac1k3M3VaN2xwTkk3RXR1TkhJd1R2Tk9ZMllVRnB3UE8yZW1aOFZTWVNvMTJmdmNXS2Y0RlgySEpQYkRCZz09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.27/Voio_3.0.27_x64-setup.exe"
     }
   }
 }
