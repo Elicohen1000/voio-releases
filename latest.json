@@ -1,6 +1,6 @@
 {
-  "version": "3.0.29",
-  "notes": "v3.0.29 — Hebrew-keyboard to English conversion now hits 100% accuracy on unambiguous words (validated by replaying a real session). Adds an/end and converts to/do/go when clearly typing English. Words whose keystrokes spell a real Hebrew word (cut→בוא) correctly stay Hebrew.",
-  "pub_date": "2026-06-10T09:49:10Z",
-  "platforms": { "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cyt6dVFPV285NkdaN3NuYzNSNzJUblNvVXpTYVJxWVhYQU44VFd4YjB4ZkJGcDF4V21VeFJ3RnRob2hhYU9xdjVyNjRiNzhQcmlqUGxTQUllampRVXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDg0NjQ1CWZpbGU6Vm9pb18zLjAuMjlfeDY0LXNldHVwLmV4ZQplTVNRTE5xOXJ4Q1g3eit6Q1dUTmdJV3FuRmdJdkJlYW9TSU1qMmpjSEdvbU5VNjROQVhNTnVkdGhRN2VKNmVrbEdmWXhvaHNrSS9SY25kOGIzWTVBdz09Cg==", "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.29/Voio_3.0.29_x64-setup.exe" } }
+  "version": "3.0.30",
+  "notes": "v3.0.30 — Fixes backspace breaking the next word: after any backspace, a full word like 'table' was left as Hebrew gibberish instead of converting. The correction guard now only suppresses short typo-fragments and can't get stuck. Found by replaying a real session.",
+  "pub_date": "2026-06-10T11:02:31Z",
+  "platforms": { "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3lBYyt2UTVzbElNR0FFam9rZGJJZFF6UCs5YW9aZUpwRmtBeXFwS0dnZzduMVJHWjRQT0JDYTN5NmM0c1dRQk5OZlBuMzlpdS8wVlZ4ZGtFd0ljdWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDg5MTA4CWZpbGU6Vm9pb18zLjAuMzBfeDY0LXNldHVwLmV4ZQpKM2c1V29DZlJkR3BJZkF6Z3IxdkJicXRzeUpmakFJZzR4R1BvYTBKbHhFNHRaNGRBeHBJOU1PeTkrdElIVzNwTUx3bE5lZDlUc1RZZDNMZnpRR1FCQT09Cg==", "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.30/Voio_3.0.30_x64-setup.exe" } }
 }
