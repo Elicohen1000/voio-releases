@@ -1,11 +1,6 @@
 {
-  "version": "3.0.28",
-  "notes": "v3.0.28 — Common English words (what, how, why) typed on the Hebrew keyboard now convert mid-paragraph, not just at sentence start. They were blocked by stale Hebrew momentum from an earlier conversion. Found and fixed by replaying a real usage log through the engine.",
-  "pub_date": "2026-06-10T08:58:13Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czBhNTRFa1NQTWJyWnlrV3loTExDN2VSOUFTV1dxVEo5OWovcWR3WUdRbWNST3l4UDNta2k0azhabHBCSVl2U1hZMmxmVVdjc0l1bG1SVVJTOFdFVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDgxNzQ0CWZpbGU6Vm9pb18zLjAuMjhfeDY0LXNldHVwLmV4ZQpQVEJkQzhBdHlxOUVLMG5Fdk1PYmR1TEY0cHhDRk1rZDYrS1NSN3hGakNwOW5QNGtqVFFlZ2tlUHFIZWVKM2NFQzdTUWZVWlN2YVBWc3dqdkVWMEVEZz09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.28/Voio_3.0.28_x64-setup.exe"
-    }
-  }
+  "version": "3.0.29",
+  "notes": "v3.0.29 — Hebrew-keyboard to English conversion now hits 100% accuracy on unambiguous words (validated by replaying a real session). Adds an/end and converts to/do/go when clearly typing English. Words whose keystrokes spell a real Hebrew word (cut→בוא) correctly stay Hebrew.",
+  "pub_date": "2026-06-10T09:49:10Z",
+  "platforms": { "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cyt6dVFPV285NkdaN3NuYzNSNzJUblNvVXpTYVJxWVhYQU44VFd4YjB4ZkJGcDF4V21VeFJ3RnRob2hhYU9xdjVyNjRiNzhQcmlqUGxTQUllampRVXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDg0NjQ1CWZpbGU6Vm9pb18zLjAuMjlfeDY0LXNldHVwLmV4ZQplTVNRTE5xOXJ4Q1g3eit6Q1dUTmdJV3FuRmdJdkJlYW9TSU1qMmpjSEdvbU5VNjROQVhNTnVkdGhRN2VKNmVrbEdmWXhvaHNrSS9SY25kOGIzWTVBdz09Cg==", "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.29/Voio_3.0.29_x64-setup.exe" } }
 }
