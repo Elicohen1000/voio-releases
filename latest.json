@@ -1,6 +1,11 @@
-{
-  "version": "3.0.32",
-  "notes": "v3.0.32 — Short words (how, why, the) now convert correctly even right after a backspace. Also fixes the updater so new versions arrive instantly instead of lagging.",
-  "pub_date": "2026-06-10T19:37:24Z",
-  "platforms": { "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czlwazcrOTYwWHRVc0NWaXF1WURVZFp4WmFpekhCUkIwWjZjakZ4WmRqa2Q4QStTdmNraVNQQlF1bTNyMWMzNHBFZFRwSW8rUU95UlNXVTdOVENTYXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTIwMDczCWZpbGU6Vm9pb18zLjAuMzJfeDY0LXNldHVwLmV4ZQo0ZGxFS3BWeVJJVjRZN05EZVFmT1FGTEpFdzE0V3k2eC9yU0IwZnJpWjJlOEV0bnJmU1c4Q05SQ0lzRno1MmtPeC9Gb0VVM2lqUHFiNWFGK2VRT2lEdz09Cg==", "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.32/Voio_3.0.32_x64-setup.exe" } }
+﻿{
+  "version": "3.0.33",
+  "notes": "v3.0.33 — CHK-209 critical fix. The live keystroke buffer was not cleared when the engine declined a word on a Hebrew KB, causing it to snowball (walkman -> walkmana -> ... 54 chars) and silently kill all conversion mid-session. Buffer now clears unconditionally at every word boundary. This was a regression from the engine-extraction sprint.",
+  "pub_date": "2026-06-11T23:19:47Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czZIYWI3R0lqdlhhUmhreFowaHh3ZDhFM2xOTEdWSWpiMTRCMm1Na0szaDlvNjl4ZHlXdzBQZGZuam1tdi9wVzUzS3NLNjhMaUtTelVGV3JlNGhMTHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA4NjU0CWZpbGU6Vm9pb18zLjAuMzNfeDY0LXNldHVwLmV4ZQo5cUM4Rk9jaFJobG4vR2JrckpydmdMdW1vVjdXOVNYQU1WVG5GWmdQSDNqZ1hGMUlxRU5xckpSTGtSL0xZQS9YZERqRnlNR040K2JVUDVxc3htYTNBUT09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.33/Voio_3.0.33_x64-setup.exe"
+    }
+  }
 }
