@@ -1,11 +1,11 @@
 {
-    "version":  "3.0.34",
-    "notes":  "v3.0.34 - CHK-211 fix. Abandoned \u0027a\u0027/\u0027i\u0027 article (typed then deleted) no longer falsely prepends to a later word (the \u0027a granola\u0027 bug). Clean \u0027a cat\u0027 unaffected.",
-    "pub_date":  "2026-06-12T06:31:42Z",
+    "version":  "3.0.39",
+    "notes":  "v3.0.39 - Major dictation accuracy upgrade (My Words enforced, mistranslations removed, smarter cleanup) + self-recovering keyboard hook + upgrade button fix.",
+    "pub_date":  "2026-06-14T11:12:20Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czkzZXhJaGRZNlJGQXJqSFZhN3lTaGtXb0E0c3VJYmJNelpmU21rMHlGRXVEUVRjNmJhb3NGVG85bTByN1JMUzBpU3VDUUFmTWdlY3lnNzViQ2k3NGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjQ1MTkyCWZpbGU6Vm9pb18zLjAuMzRfeDY0LXNldHVwLmV4ZQpiZ3J6ZXRRZzRSdzF3VDhTRU1HRzcrM0FIbDhLQmFmMkVyVGdnK1dJZWJQdno1ZzNPTXowMmRWT2pHWVA5R2trRDk0RFM5M0tHQjNuY1R0VmowTXlCZz09Cg==",
-                                             "url":  "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.34/Voio_3.0.34_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czVMUXNCeG01WjRTUHpDdGJKcFpwSFptYWsvQnNoQzM5VHpWckc1QjFMK3ROK3lHZDdOakpTU1pUQ1U2ODdsR0RTMFZRZG5pamxPZ04xQ3o5d1lZandjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI2NjcxCWZpbGU6Vm9pb18zLjAuMzlfeDY0LXNldHVwLmV4ZQp4MnVXY0xwd0tiNC91YUlGQWVIV1hUYUNGNmlsbE02SVNkKzg5SW1acXRjRzg0N29OMHQ3NTBrYWNGOGhRUCtIZDV5WDR1SWZ5aTVzWnFsN3NxQzNEZz09Cg==",
+                                             "url":  "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.39/Voio_3.0.39_x64-setup.exe"
                                          }
                   }
 }
