@@ -1,11 +1,11 @@
 {
-    "version":  "3.0.39",
-    "notes":  "v3.0.39 - Major dictation accuracy upgrade (My Words enforced, mistranslations removed, smarter cleanup) + self-recovering keyboard hook + upgrade button fix.",
-    "pub_date":  "2026-06-14T11:12:20Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czVMUXNCeG01WjRTUHpDdGJKcFpwSFptYWsvQnNoQzM5VHpWckc1QjFMK3ROK3lHZDdOakpTU1pUQ1U2ODdsR0RTMFZRZG5pamxPZ04xQ3o5d1lZandjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI2NjcxCWZpbGU6Vm9pb18zLjAuMzlfeDY0LXNldHVwLmV4ZQp4MnVXY0xwd0tiNC91YUlGQWVIV1hUYUNGNmlsbE02SVNkKzg5SW1acXRjRzg0N29OMHQ3NTBrYWNGOGhRUCtIZDV5WDR1SWZ5aTVzWnFsN3NxQzNEZz09Cg==",
-                                             "url":  "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.39/Voio_3.0.39_x64-setup.exe"
-                                         }
-                  }
+    "version": "3.0.40",
+    "notes": "v3.0.40 - Lighter, more reliable correction popup (native overlay replaces the PowerShell window; fewer antivirus false positives, cleaner on any display scaling). Report button fixed.",
+    "pub_date": "2026-06-17T05:10:03Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czA3K253NjJsbzBzRmJWL0FVdGQwYS9NVHRjTzRWWXRKbUgxL0JuNDh1dXlZWUxxUWNESTJjdUVYSEZUTDRHdlJqYVlzd0pLVi9TNEtrdmlsOTBVTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjcyNzcxCWZpbGU6Vm9pb18zLjAuNDBfeDY0LXNldHVwLmV4ZQpjc1JuRTdtaGFXQ3JHWE13MnpIaEZyWEtpajJxbUFUZExDYU9CYXRQdVJZTXNtaVl5M01Nd1M2ZzN5d0hEeHJsNGpDdFJPSHI2Sk1TSW5aK29YSG1BZz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.40/Voio_3.0.40_x64-setup.exe"
+        }
+    }
 }
