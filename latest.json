@@ -1,11 +1,11 @@
 {
-    "version": "3.0.40",
-    "notes": "v3.0.40 - Lighter, more reliable correction popup (native overlay replaces the PowerShell window; fewer antivirus false positives, cleaner on any display scaling). Report button fixed.",
-    "pub_date": "2026-06-17T05:10:03Z",
+    "version": "3.0.41",
+    "notes": "v3.0.41 - Fixes for the correction popup: removes a leftover empty notification window, and the Report button now always opens the bug-report window on a visible screen (previously could open off-screen on multi-monitor setups).",
+    "pub_date": "2026-06-17T06:07:53Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czA3K253NjJsbzBzRmJWL0FVdGQwYS9NVHRjTzRWWXRKbUgxL0JuNDh1dXlZWUxxUWNESTJjdUVYSEZUTDRHdlJqYVlzd0pLVi9TNEtrdmlsOTBVTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjcyNzcxCWZpbGU6Vm9pb18zLjAuNDBfeDY0LXNldHVwLmV4ZQpjc1JuRTdtaGFXQ3JHWE13MnpIaEZyWEtpajJxbUFUZExDYU9CYXRQdVJZTXNtaVl5M01Nd1M2ZzN5d0hEeHJsNGpDdFJPSHI2Sk1TSW5aK29YSG1BZz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.40/Voio_3.0.40_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3pyQlV0ZWcrYVlxY2dXTCs5ellZcHlMMlIzYktXT0NOTmZkdUdKMmtwTDNGNTZac3lDaW1WaCtVWSswK0pXY2tWcmtVbS9jTDAyU1BITlFMYUptTXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjc2MzYyCWZpbGU6Vm9pb18zLjAuNDFfeDY0LXNldHVwLmV4ZQpYZnpWeE5ndHJwWUppRG5GUWZPQWxCczg0eTFkVS83NVZlbkU0K0dXNzNTM3NmL3hNT1FPbVZlUFFLbjRGVlNOdlllekZUNkRaYnVxMkp5TUFNdm1DQT09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.41/Voio_3.0.41_x64-setup.exe"
         }
     }
 }
