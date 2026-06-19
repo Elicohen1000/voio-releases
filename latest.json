@@ -1,11 +1,11 @@
 {
-    "version": "3.0.42",
-    "notes": "v3.0.42 â€” Phase 1 brand redesign: tray labels (Voice Typing / Language Auto-Switch / Exit Voio), toast new gradient + Rubik font + Material Icons, dashboard full color palette + border-radius + font update. Visual only â€” no engine changes.",
-    "pub_date": "2026-06-19T06:46:54Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3dHWXJ4TmhsYmhzcEtnQ000bk52T0tVWFlUMHQrZ1JXRjNoU2ZYRWQrb0lFNFpocmF4Z0JkQWZPTFpJb3lIRElKRHpXUGl4dFdzUXlCRjN5OHllb0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODQwODE0CWZpbGU6Vm9pb18zLjAuNDJfeDY0LXNldHVwLmV4ZQpCUUsva0doV1I5bEZXMld3VEVYanRkbkFVaDB4K2xOaHplRFBzbTl4U1FhK0JxbVdGNFRQUStQa0NDSFNjV0NhY0Rja2lVSTJQZmJrQUwvVk5XdDNDdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.42/Voio_3.0.42_x64-setup.exe"
-        }
+  "version": "3.0.43",
+  "notes": "Phase 2 - Nudge Balloon Redesign: brand gradient, hover popover with quick actions, Add-a-word modal, 24h smart state machine, click-through fix, polished CSS animations.",
+  "pub_date": "2026-06-19T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3lLaGMxV1AvUjVtMG1WQng2Rjhpd21VZEdseURadzdKNTM3YnRhNmpMamEvdm44bGFOL2hmWENDVno0NUlBOU1yOHJCRDNuTDkvdUNpTXRER3J1WndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODY2OTA3CWZpbGU6Vm9pb18zLjAuNDNfeDY0LXNldHVwLmV4ZQo2OVJsRUNDY2ozZzA1Rlk2QUdvOGVrNUZNOEs0djhReHBVbDVmSGltdGExa3lwcEJPcXFBaTdYQmplQ0F2RVRPZ2gza3Fycm85M0oxTFl6OHZzY29Bdz09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.43/Voio_3.0.43_x64-setup.exe"
     }
+  }
 }
