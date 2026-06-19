@@ -1,11 +1,11 @@
 {
-    "version": "3.0.41",
-    "notes": "v3.0.41 - Fixes for the correction popup: removes a leftover empty notification window, and the Report button now always opens the bug-report window on a visible screen (previously could open off-screen on multi-monitor setups).",
-    "pub_date": "2026-06-17T06:07:53Z",
+    "version": "3.0.42",
+    "notes": "v3.0.42 â€” Phase 1 brand redesign: tray labels (Voice Typing / Language Auto-Switch / Exit Voio), toast new gradient + Rubik font + Material Icons, dashboard full color palette + border-radius + font update. Visual only â€” no engine changes.",
+    "pub_date": "2026-06-19T06:46:54Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3pyQlV0ZWcrYVlxY2dXTCs5ellZcHlMMlIzYktXT0NOTmZkdUdKMmtwTDNGNTZac3lDaW1WaCtVWSswK0pXY2tWcmtVbS9jTDAyU1BITlFMYUptTXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjc2MzYyCWZpbGU6Vm9pb18zLjAuNDFfeDY0LXNldHVwLmV4ZQpYZnpWeE5ndHJwWUppRG5GUWZPQWxCczg0eTFkVS83NVZlbkU0K0dXNzNTM3NmL3hNT1FPbVZlUFFLbjRGVlNOdlllekZUNkRaYnVxMkp5TUFNdm1DQT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.41/Voio_3.0.41_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5c3dHWXJ4TmhsYmhzcEtnQ000bk52T0tVWFlUMHQrZ1JXRjNoU2ZYRWQrb0lFNFpocmF4Z0JkQWZPTFpJb3lIRElKRHpXUGl4dFdzUXlCRjN5OHllb0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODQwODE0CWZpbGU6Vm9pb18zLjAuNDJfeDY0LXNldHVwLmV4ZQpCUUsva0doV1I5bEZXMld3VEVYanRkbkFVaDB4K2xOaHplRFBzbTl4U1FhK0JxbVdGNFRQUStQa0NDSFNjV0NhY0Rja2lVSTJQZmJrQUwvVk5XdDNDdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.42/Voio_3.0.42_x64-setup.exe"
         }
     }
 }
