@@ -1,11 +1,11 @@
 {
-  "version": "3.0.44",
-  "notes": "Phase 3 - Dashboard Home Redesign: white hero, honest time-saved formula, two-column layout, privacy-safe recent activity, personal records, milestones.",
-  "pub_date": "2026-06-19T19:15:00Z",
+  "version": "3.0.45",
+  "notes": "Phase 4 - Onboarding redesign: 4-screen flow, merged welcome+auth, inline smart-key, friendlier practice with no dead-ends, refreshed copy.",
+  "pub_date": "2026-06-20T04:53:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czBUWnJCSHJrajVVeHV6WkRCK0tWRWQ5eENxam5CNzFqNUFWbFRWR2dtS1FhWFk2SUxNYjJmUVdNdXh5M2RGWlJRbkJCbUh4UE11WG1ZRUZWdlFSZFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg1NjM5CWZpbGU6Vm9pb18zLjAuNDRfeDY0LXNldHVwLmV4ZQpFdmJtOWdXZ1BMak5lMm1sdmE5Wi9lRmRxK2xFRWxPait6MEJ3cmtKSW5xZ05CcnYvNFVQWXlBNWxpZ21EOXQ5VmZIM3dBbzBNdms5WTI4V0x1VVFBUT09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.44/Voio_3.0.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czA2a2VxWk5UQVpYS1hEY01FWjRGMFc3ekdoelllYkRlNnJhNHJmTldXZlhtL2M4eFlKclFXcE5sS1pGSHJUMGZvZW9KTU84Y091Q1IxK0ljWG5xOWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxOTMwOTk2CWZpbGU6Vm9pb18zLjAuNDVfeDY0LXNldHVwLmV4ZQpCR0JwbFBQSHc2N2VrVUo4bno1MW8xTVF0Z2krd3doQkhZN0ZQRnBmRGRSQWt2Tmp1bzZ4eE9TYlBkUmlDRmpQWGtqaXBMM0tVUXc1eE54RCtOaGhEZz09Cg==",
+      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.45/Voio_3.0.45_x64-setup.exe"
     }
   }
 }
