@@ -1,11 +1,11 @@
 {
-    "version": "3.0.47",
-    "notes": "v3.0.47 - Smoother dictation pill: no flicker on expand, clicks pass through the empty space around it (no dead-zone), plus a fix preventing the Ctrl key from sticking after dictation.",
-    "pub_date": "2026-06-21T05:15:31Z",
+    "version": "3.0.48",
+    "notes": "v3.0.48 - The dictation pill follows you across monitors; fixes hallucinated text from silent dictation; My Words reliably protected; undo restores exactly; editing inside a word no longer mis-converts; 'non' fix.",
+    "pub_date": "2026-06-21T10:36:25Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czFDK3o0ZXNXT1N0Y3VPdzU5alpKdFZYTmtDVmlVZzU0YzNZTDJXc2cxNnQvTjRFVDBacTI2ZTVmOFZDQnVUME52RG03VjlCbUZDN0M0TXlxVTUwNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDE3ODI4CWZpbGU6Vm9pb18zLjAuNDdfeDY0LXNldHVwLmV4ZQoxL3R2cURQTHVlQkRLU0hKQ0REZGk0Ni9wd09jbHJ0SGd1d0Q4cFdTczJ6enpLdFhnSkh0b1o5TCtwSk04cTlwTUxmdjcxTXZoMnVFdytPemZDZitEdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.47/Voio_3.0.47_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czd6cnpsd1VPYkx4N01RK3dHWDNKVEc2NmNuT09lQldMcnI0UDh6ZGZQNzZ4L1JVQjQyazZEY21xcTlIcnIrQ3FvTG9hTHJPQzNoeEFpa0M2L2R2ZUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDM3NDA4CWZpbGU6Vm9pb18zLjAuNDhfeDY0LXNldHVwLmV4ZQpRNVlBblYwSGlEYTJnOElNaWducWN4bnpaejFpbDRvaUJObllvRTN2YUtUYythd1dPTk5vejVnNi93WEdYa3NiendPeG1haDYwQTlsVTVLcnNORUhEZz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.48/Voio_3.0.48_x64-setup.exe"
         }
     }
 }
