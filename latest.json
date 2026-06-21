@@ -1,11 +1,11 @@
 {
-  "version": "3.0.45",
-  "notes": "Phase 4 - Onboarding redesign: 4-screen flow, merged welcome+auth, inline smart-key, friendlier practice with no dead-ends, refreshed copy.",
-  "pub_date": "2026-06-20T04:53:27Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czA2a2VxWk5UQVpYS1hEY01FWjRGMFc3ekdoelllYkRlNnJhNHJmTldXZlhtL2M4eFlKclFXcE5sS1pGSHJUMGZvZW9KTU84Y091Q1IxK0ljWG5xOWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxOTMwOTk2CWZpbGU6Vm9pb18zLjAuNDVfeDY0LXNldHVwLmV4ZQpCR0JwbFBQSHc2N2VrVUo4bno1MW8xTVF0Z2krd3doQkhZN0ZQRnBmRGRSQWt2Tmp1bzZ4eE9TYlBkUmlDRmpQWGtqaXBMM0tVUXc1eE54RCtOaGhEZz09Cg==",
-      "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.45/Voio_3.0.45_x64-setup.exe"
+    "version": "3.0.47",
+    "notes": "v3.0.47 - Smoother dictation pill: no flicker on expand, clicks pass through the empty space around it (no dead-zone), plus a fix preventing the Ctrl key from sticking after dictation.",
+    "pub_date": "2026-06-21T05:15:31Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czFDK3o0ZXNXT1N0Y3VPdzU5alpKdFZYTmtDVmlVZzU0YzNZTDJXc2cxNnQvTjRFVDBacTI2ZTVmOFZDQnVUME52RG03VjlCbUZDN0M0TXlxVTUwNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDE3ODI4CWZpbGU6Vm9pb18zLjAuNDdfeDY0LXNldHVwLmV4ZQoxL3R2cURQTHVlQkRLU0hKQ0REZGk0Ni9wd09jbHJ0SGd1d0Q4cFdTczJ6enpLdFhnSkh0b1o5TCtwSk04cTlwTUxmdjcxTXZoMnVFdytPemZDZitEdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.47/Voio_3.0.47_x64-setup.exe"
+        }
     }
-  }
 }
