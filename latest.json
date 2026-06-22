@@ -1,11 +1,11 @@
 {
-    "version": "3.0.48",
-    "notes": "v3.0.48 - The dictation pill follows you across monitors; fixes hallucinated text from silent dictation; My Words reliably protected; undo restores exactly; editing inside a word no longer mis-converts; 'non' fix.",
-    "pub_date": "2026-06-21T10:36:25Z",
+    "version": "3.0.49",
+    "notes": "v3.0.49 - Sharper keyboard accuracy: stops mistakenly converting English words to Hebrew gibberish, and never converts capitalized names (Noam, Michal). 650 false-positive conversions eliminated, zero regressions.",
+    "pub_date": "2026-06-22T06:35:03Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czd6cnpsd1VPYkx4N01RK3dHWDNKVEc2NmNuT09lQldMcnI0UDh6ZGZQNzZ4L1JVQjQyazZEY21xcTlIcnIrQ3FvTG9hTHJPQzNoeEFpa0M2L2R2ZUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDM3NDA4CWZpbGU6Vm9pb18zLjAuNDhfeDY0LXNldHVwLmV4ZQpRNVlBblYwSGlEYTJnOElNaWducWN4bnpaejFpbDRvaUJObllvRTN2YUtUYythd1dPTk5vejVnNi93WEdYa3NiendPeG1haDYwQTlsVTVLcnNORUhEZz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.48/Voio_3.0.48_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czZhVjFRQVhZVk1CSU9tL3daaTNtU3NNZTNtRUcwWTRRbkpCYmMxaTc2ajkxQ1M2QnhLWTErRzlzVEpBV2V4V0l1Z1BXWmd4TVZBNU5nNm1FclNPeHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTA0MjIxCWZpbGU6Vm9pb18zLjAuNDlfeDY0LXNldHVwLmV4ZQpKd3Y3aUNzcTAyNWdSWEw4MDNaMU9hQ09RZXY1TEZMQUxvM1dxaEw4UWhyd1F5YkdjcVlUSjVJUURSNHdhTDdQSnJGazhXbWk3VFJuWGdaNVIvOXlEdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.49/Voio_3.0.49_x64-setup.exe"
         }
     }
 }
