@@ -1,11 +1,11 @@
 {
-    "version": "3.0.51",
-    "notes": "v3.0.51 - 'cut' reliably converts to 'בוא' when Hebrew follows. Includes the v3.0.50 name/false-positive fixes.",
-    "pub_date": "2026-06-22T15:32:53Z",
+    "version": "3.0.52",
+    "notes": "v3.0.52 - Critical: fixes a stuck CTRL key from the dictation hotkey on some Windows setups (CHK-224). Includes all v3.0.50/51 keyboard fixes.",
+    "pub_date": "2026-06-22T15:55:44Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czhnWTJUMTRBdVdmU0gwU044cHNHSnEyQ2w3dkk0OVpaQ3A3RjhnaEU1M1Z6TlNmS0lxc0xMRytOQk91VFozdUJMU3VmZWg4d0liVHZMa2tzc2g3S3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTQxOTE5CWZpbGU6Vm9pb18zLjAuNTFfeDY0LXNldHVwLmV4ZQpTQVJMMWNWNWY0UytncTdGQmlCMmdCcTNCWkswaWpINDJ6d1RJWHpQREVYRitGUUE2Z1JxcjdJRjF3TGxsM29GZEZRb0xYemFWZHdPcHNDYUhDaXFEZz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.51/Voio_3.0.51_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czhwT3JpaDByUHJwdWdYWmI0VFdVZ3Ztc3R5UEdieG1qcmJFdnBqTGhmUE9jb0xLRmVvcm1PdDJHM1B2TGJZK2UxY3pjQjFZWlpFWURwbkRTWXpLNXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTQzNDY5CWZpbGU6Vm9pb18zLjAuNTJfeDY0LXNldHVwLmV4ZQpaejlGUnpRUmFCdFBwemRlUHJEcVUzSVhPaGtNeFdja2xRMm5vdFBFd3k5dEh6cGdFbXV0ZHNjamNNdDExSlJHaFlYOHVuUW1vMW1DTzl5QzFoTUlEdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.52/Voio_3.0.52_x64-setup.exe"
         }
     }
 }
