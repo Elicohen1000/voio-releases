@@ -1,11 +1,11 @@
 {
-    "version": "3.0.52",
-    "notes": "v3.0.52 - Critical: fixes a stuck CTRL key from the dictation hotkey on some Windows setups (CHK-224). Includes all v3.0.50/51 keyboard fixes.",
-    "pub_date": "2026-06-22T15:55:44Z",
+    "version": "3.0.53",
+    "notes": "v3.0.53 - Fixes the first word being skipped right after switching apps by clicking (CHK-228). Compact correction popup, now centered above the taskbar (CHK-226).",
+    "pub_date": "2026-06-24T07:59:41Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czhwT3JpaDByUHJwdWdYWmI0VFdVZ3Ztc3R5UEdieG1qcmJFdnBqTGhmUE9jb0xLRmVvcm1PdDJHM1B2TGJZK2UxY3pjQjFZWlpFWURwbkRTWXpLNXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTQzNDY5CWZpbGU6Vm9pb18zLjAuNTJfeDY0LXNldHVwLmV4ZQpaejlGUnpRUmFCdFBwemRlUHJEcVUzSVhPaGtNeFdja2xRMm5vdFBFd3k5dEh6cGdFbXV0ZHNjamNNdDExSlJHaFlYOHVuUW1vMW1DTzl5QzFoTUlEdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.52/Voio_3.0.52_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czM4Vkdsc1RoTVpYOEZXTWR6TnpkdVFSOG9HbjB1bkhCRXJ2YU53bXVKOXJROVMzdGN0QVozRTJrR1k5ZEVuUlBEbmdrRDVxVDNGb1BpSkEwUXRqQndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjg3ODMyCWZpbGU6Vm9pb18zLjAuNTNfeDY0LXNldHVwLmV4ZQoraVh2bkl6VFY1dVlRL3VpUk5LNzh6dGdPTFZWejhMRHlORVA2bVVpdURYcDVDR3RxdzJWTVlQV1J2SjlIOXRSUkRYejF3dW5zeU5vVFB2aE9MVjNEdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.53/Voio_3.0.53_x64-setup.exe"
         }
     }
 }
