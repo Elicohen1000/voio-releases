@@ -1,11 +1,11 @@
 {
-    "version": "3.0.54",
-    "notes": "v3.0.54 - More reliable conversion of wrong-keyboard words while you're typing Hebrew (CHK-200c). Correction popup now sits in the taskbar band at the very bottom (CHK-226b).",
-    "pub_date": "2026-06-25T05:17:46Z",
+    "version": "3.0.55",
+    "notes": "v3.0.55 - Wrong-keyboard word conversion now fires reliably while typing Hebrew in every context (CHK-200d).",
+    "pub_date": "2026-06-25T06:14:59Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cytNbFkrT1V4UmVvMFVBKzYvdXk5NWxvcXlLVllDYmk3NDhjeTVSdFFiS2VyYVF1dEx0Yms4U2tKdnBpNVJydjN0dU1RVkFBVmxwdEI3ZlhNbnJaendZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzY0MzY0CWZpbGU6Vm9pb18zLjAuNTRfeDY0LXNldHVwLmV4ZQpsdklYQTVNS2ovMmtYUzRXVkh6dGhKUDJIcU8vb1RqZXRQZXl2V3lLbVdBbFIyY0prOTBDTWJWSWVuUkExYnVkVkVxNFVKVmEySVdjL3pHa1g3cTZCdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.54/Voio_3.0.54_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czA2UUdBZGtZeHRQdlVzM1JRYXFnSEJnRUhXQzBkZUo1RU9nTkRKQ216bWNOU1ViNDRaNmVqZ0VGSmpLRGtrb2t0QWFSN0ppTHpZWHJNSDhmalM2WlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzY3ODUyCWZpbGU6Vm9pb18zLjAuNTVfeDY0LXNldHVwLmV4ZQowZUgrcGNrcXd4VHhTTDgwOXA5N1k4UkNyaUxuUHhGMzR4eGhBWHg1dUlXU2lWZ2hoMHJjLzN6MVo1MG9LemFSMmRuZjFFTGtPRkhiU0FJZzRGYUxBdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.55/Voio_3.0.55_x64-setup.exe"
         }
     }
 }
