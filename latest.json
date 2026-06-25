@@ -1,11 +1,11 @@
 {
-    "version": "3.0.55",
-    "notes": "v3.0.55 - Wrong-keyboard word conversion now fires reliably while typing Hebrew in every context (CHK-200d).",
-    "pub_date": "2026-06-25T06:14:59Z",
+    "version": "3.0.57",
+    "notes": "v3.0.57 - Anonymous usage analytics to help improve Voio (on by default, turn off anytime in Settings → Privacy). Plus the latest keyboard + dictation fixes.",
+    "pub_date": "2026-06-25T10:44:36Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czA2UUdBZGtZeHRQdlVzM1JRYXFnSEJnRUhXQzBkZUo1RU9nTkRKQ216bWNOU1ViNDRaNmVqZ0VGSmpLRGtrb2t0QWFSN0ppTHpZWHJNSDhmalM2WlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzY3ODUyCWZpbGU6Vm9pb18zLjAuNTVfeDY0LXNldHVwLmV4ZQowZUgrcGNrcXd4VHhTTDgwOXA5N1k4UkNyaUxuUHhGMzR4eGhBWHg1dUlXU2lWZ2hoMHJjLzN6MVo1MG9LemFSMmRuZjFFTGtPRkhiU0FJZzRGYUxBdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.55/Voio_3.0.55_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czM4Ry82YTduRjlKNTJtNVM1NnFaRUZYblVDUGhlUnFnK2Y1aHZnNEZ6RTJ1OEZicUNoaUoveDlFN1l5OHEveWpOQmdnb3JHRDNjcm91RVpxVWFVMVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzgyMzM0CWZpbGU6Vm9pb18zLjAuNTdfeDY0LXNldHVwLmV4ZQorUGE4Y3NuUmo3WVlOUC90RzVFMjVGa0JGYW5IamhtTHh4YitnbWVydGZINlBMN0l2dmpnUTZOZGRYQStGSmVneU84RW9aVGNpMGVGVjhnVExSZndEUT09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.57/Voio_3.0.57_x64-setup.exe"
         }
     }
 }
