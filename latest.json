@@ -1,11 +1,11 @@
 {
-    "version": "3.0.58",
-    "notes": "v3.0.58 - Updating no longer logs you out or repeats onboarding. Plus privacy disclosure + the latest fixes.",
-    "pub_date": "2026-06-25T11:05:52Z",
+    "version": "3.0.59",
+    "notes": "v3.0.59 - Dictation fix: Voio no longer occasionally turns your Hebrew speech into English you didn't say. More faithful transcription.",
+    "pub_date": "2026-06-25T14:13:42Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cyt1czJYOWZPcDYwb1htRDFPR1p6YkdNd0tSQ0ZRejlYd05CWVBCTUxpeVBsTzZSVzlBamJVU0VialBlVENrWHdwTXBiaWttY1p3M3N5cXJYZll3R0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzg0ODkwCWZpbGU6Vm9pb18zLjAuNThfeDY0LXNldHVwLmV4ZQpWak4zTEpMWXhxODk2YklaQ0xTbTBpSXJCZzFZclVPUlVuYVJWbVZMTHgveTJPOTUyQ1hRblNEbTN5M0dtWWRSWlJFTFJCcWsxRnpuZHFNaEZkc3pCUT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.58/Voio_3.0.58_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czN1MUZyY1RqZGFXUWFGTGU5NFdTcHduQUJXNnlMRjdKSi9Td3hBSTV6MTkvTi9vUUhPMjl3MTRoZGhva1pTaSs3ZDUwNmhJaVRySVNsVGFsZFlHQXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzk2NzE4CWZpbGU6Vm9pb18zLjAuNTlfeDY0LXNldHVwLmV4ZQowc2FYdk9jdGxBMkt5dGFPT2JxV2tCZTkwSW5kRlF4Ulp6OVNlWWtqTXA1OHg3Nm9sK3FrWkM5RnBOaklXbUdOcHZIbW9jekd3N1JVdG5xYWVUZHZDdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.59/Voio_3.0.59_x64-setup.exe"
         }
     }
 }
