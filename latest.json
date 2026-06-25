@@ -1,11 +1,11 @@
 {
-    "version": "3.0.57",
-    "notes": "v3.0.57 - Anonymous usage analytics to help improve Voio (on by default, turn off anytime in Settings → Privacy). Plus the latest keyboard + dictation fixes.",
-    "pub_date": "2026-06-25T10:44:36Z",
+    "version": "3.0.58",
+    "notes": "v3.0.58 - Updating no longer logs you out or repeats onboarding. Plus privacy disclosure + the latest fixes.",
+    "pub_date": "2026-06-25T11:05:52Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czM4Ry82YTduRjlKNTJtNVM1NnFaRUZYblVDUGhlUnFnK2Y1aHZnNEZ6RTJ1OEZicUNoaUoveDlFN1l5OHEveWpOQmdnb3JHRDNjcm91RVpxVWFVMVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzgyMzM0CWZpbGU6Vm9pb18zLjAuNTdfeDY0LXNldHVwLmV4ZQorUGE4Y3NuUmo3WVlOUC90RzVFMjVGa0JGYW5IamhtTHh4YitnbWVydGZINlBMN0l2dmpnUTZOZGRYQStGSmVneU84RW9aVGNpMGVGVjhnVExSZndEUT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.57/Voio_3.0.57_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cyt1czJYOWZPcDYwb1htRDFPR1p6YkdNd0tSQ0ZRejlYd05CWVBCTUxpeVBsTzZSVzlBamJVU0VialBlVENrWHdwTXBiaWttY1p3M3N5cXJYZll3R0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzg0ODkwCWZpbGU6Vm9pb18zLjAuNThfeDY0LXNldHVwLmV4ZQpWak4zTEpMWXhxODk2YklaQ0xTbTBpSXJCZzFZclVPUlVuYVJWbVZMTHgveTJPOTUyQ1hRblNEbTN5M0dtWWRSWlJFTFJCcWsxRnpuZHFNaEZkc3pCUT09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.58/Voio_3.0.58_x64-setup.exe"
         }
     }
 }
