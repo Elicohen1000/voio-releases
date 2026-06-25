@@ -1,11 +1,11 @@
 {
-    "version": "3.0.53",
-    "notes": "v3.0.53 - Fixes the first word being skipped right after switching apps by clicking (CHK-228). Compact correction popup, now centered above the taskbar (CHK-226).",
-    "pub_date": "2026-06-24T07:59:41Z",
+    "version": "3.0.54",
+    "notes": "v3.0.54 - More reliable conversion of wrong-keyboard words while you're typing Hebrew (CHK-200c). Correction popup now sits in the taskbar band at the very bottom (CHK-226b).",
+    "pub_date": "2026-06-25T05:17:46Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czM4Vkdsc1RoTVpYOEZXTWR6TnpkdVFSOG9HbjB1bkhCRXJ2YU53bXVKOXJROVMzdGN0QVozRTJrR1k5ZEVuUlBEbmdrRDVxVDNGb1BpSkEwUXRqQndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjg3ODMyCWZpbGU6Vm9pb18zLjAuNTNfeDY0LXNldHVwLmV4ZQoraVh2bkl6VFY1dVlRL3VpUk5LNzh6dGdPTFZWejhMRHlORVA2bVVpdURYcDVDR3RxdzJWTVlQV1J2SjlIOXRSUkRYejF3dW5zeU5vVFB2aE9MVjNEdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.53/Voio_3.0.53_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5cytNbFkrT1V4UmVvMFVBKzYvdXk5NWxvcXlLVllDYmk3NDhjeTVSdFFiS2VyYVF1dEx0Yms4U2tKdnBpNVJydjN0dU1RVkFBVmxwdEI3ZlhNbnJaendZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzY0MzY0CWZpbGU6Vm9pb18zLjAuNTRfeDY0LXNldHVwLmV4ZQpsdklYQTVNS2ovMmtYUzRXVkh6dGhKUDJIcU8vb1RqZXRQZXl2V3lLbVdBbFIyY0prOTBDTWJWSWVuUkExYnVkVkVxNFVKVmEySVdjL3pHa1g3cTZCdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.54/Voio_3.0.54_x64-setup.exe"
         }
     }
 }
