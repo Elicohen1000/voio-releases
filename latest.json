@@ -1,11 +1,11 @@
 {
-    "version": "3.0.59",
-    "notes": "v3.0.59 - Dictation fix: Voio no longer occasionally turns your Hebrew speech into English you didn't say. More faithful transcription.",
-    "pub_date": "2026-06-25T14:13:42Z",
+    "version": "3.0.60",
+    "notes": "v3.0.60 - Dictation: smarter language detection - if a language you don't use is mis-detected, Voio re-transcribes in your keyboard language instead of gibberish.",
+    "pub_date": "2026-06-26T03:52:13Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czN1MUZyY1RqZGFXUWFGTGU5NFdTcHduQUJXNnlMRjdKSi9Td3hBSTV6MTkvTi9vUUhPMjl3MTRoZGhva1pTaSs3ZDUwNmhJaVRySVNsVGFsZFlHQXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzk2NzE4CWZpbGU6Vm9pb18zLjAuNTlfeDY0LXNldHVwLmV4ZQowc2FYdk9jdGxBMkt5dGFPT2JxV2tCZTkwSW5kRlF4Ulp6OVNlWWtqTXA1OHg3Nm9sK3FrWkM5RnBOaklXbUdOcHZIbW9jekd3N1JVdG5xYWVUZHZDdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.59/Voio_3.0.59_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czJpMzVNR3FMTFFOOEhpaEtXWTAyeDhDOVFQb0QxTTBTVmJlWVhxekJFZkRBQUtOK1h4TEU3R2taNXRXcUxPYmdwTUFubmZIYVlrNkxzeEpvNStsUlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDQ1Nzc4CWZpbGU6Vm9pb18zLjAuNjBfeDY0LXNldHVwLmV4ZQpwMEJldVJqSUl6aGUwMTNGbHB4TVhUbHNNM25mamxNUk5EWHpIc2pqNzJORmtObDRMSVp0VVExbTRDSlNBQXc5OWRMZUd0SUIweHpIVG5vbTIyYWlDQT09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.60/Voio_3.0.60_x64-setup.exe"
         }
     }
 }
