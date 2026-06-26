@@ -1,11 +1,11 @@
 {
-    "version": "3.0.61",
-    "notes": "v3.0.61 - Keyboard: more wrong-layout words convert when you're typing Hebrew (e.g. to->אם, do->גם), while staying protected when you're typing English.",
-    "pub_date": "2026-06-26T07:49:25Z",
+    "version": "3.0.62",
+    "notes": "v3.0.62 - Internal analytics reliability improvement. No user-facing changes.",
+    "pub_date": "2026-06-26T08:01:56Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czZYQWVRWHlBdjhZWC9wdlc3U2Y2TXJkSWVOOENEaDB4R21WYmY2Y3QvTDJCZTZpckkwdGpVQlRvM3owamlkREpZQklaaHZGODBXN1VLaVI4SXBVS3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDU5OTU1CWZpbGU6Vm9pb18zLjAuNjFfeDY0LXNldHVwLmV4ZQpRbGhtbDI4Qm9UUDBJRzNUSUdRYWhVbjJNTmNnOEY2Q04rWVZqSlhBZ0Z1RmpvZ0REb0JuUG5QWXJYQ0ZCajhicEppc2ROUGJsbDJuSEtmb2NPL3hEQT09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.61/Voio_3.0.61_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czc1SS9FM1RWcHdZMTBacXMzcjhnMERFWUpQWk5mQ1NxMnBpN2FOWnBBSDg1STFhVFFkUUxRVWpRNlBEZThXck5tc1diWW9yMjh4YllJK25ZOGllZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDYwODc3CWZpbGU6Vm9pb18zLjAuNjJfeDY0LXNldHVwLmV4ZQp0ZFdQbGdDR0s1Tkx5L2ZmTXRxTmVXZkVXNisycDE4MWNDb0lMZ20wcllEQ1Z2RHZNY1dSZDVpdEgxeHB1cndHR204endtaWg2Z0dsOU9Jck1KVWNBdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.62/Voio_3.0.62_x64-setup.exe"
         }
     }
 }
