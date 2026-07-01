@@ -1,11 +1,11 @@
 {
-    "version": "3.0.62",
-    "notes": "v3.0.62 - Internal analytics reliability improvement. No user-facing changes.",
-    "pub_date": "2026-06-26T08:01:56Z",
+    "version": "3.0.76",
+    "notes": "Conversion improvements: ?/! now convert; the article ('a tool') no longer leaves a stray Hebrew letter; My Words converts your custom words; fast typing no longer drops/strays characters; undo-on-backspace works for several seconds.",
+    "pub_date": "2026-07-01T13:18:51Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czc1SS9FM1RWcHdZMTBacXMzcjhnMERFWUpQWk5mQ1NxMnBpN2FOWnBBSDg1STFhVFFkUUxRVWpRNlBEZThXck5tc1diWW9yMjh4YllJK25ZOGllZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDYwODc3CWZpbGU6Vm9pb18zLjAuNjJfeDY0LXNldHVwLmV4ZQp0ZFdQbGdDR0s1Tkx5L2ZmTXRxTmVXZkVXNisycDE4MWNDb0lMZ20wcllEQ1Z2RHZNY1dSZDVpdEgxeHB1cndHR204endtaWg2Z0dsOU9Jck1KVWNBdz09Cg==",
-            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.62/Voio_3.0.62_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRXBBbUhPZWc5czlsdUxpcXR2RU5ldlZGemlvdTBpeFhwS042Q0R6NmtZWEZpUWpZTkpUVmdxbzJVdmw0Q3ExRjZsZGNHRU51MDNkMmU3aDY0STE1QjVjSUlsVE9LQUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODk4MDMxCWZpbGU6Vm9pb18zLjAuNzZfeDY0LXNldHVwLmV4ZQpKUlN4cCs4bTNyTWxXZ1FkVmdyWngrdytpeDVabHRuNzRML1BvK3NJekVPSjQ1RU5aWDhXbGVVS1hLT3JrMnp6THFvS3B3aEZQd2tYT0lxTXlnSnJBdz09Cg==",
+            "url": "https://github.com/Elicohen1000/voio-releases/releases/download/v3.0.76/Voio_3.0.76_x64-setup.exe"
         }
     }
 }
